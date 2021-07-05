@@ -1,0 +1,2076 @@
+dtpricon;regiao;loctudet;metastaticos;estadios;fetar;obito1ano;obito;pop
+2000;centroeste;colon;nao metastaticos;II;<60;0;0;1
+2000;centroeste;colon;nao metastaticos;III;<60;0;0;1
+2000;centroeste;colon;metastaticos;IV;<60;0;0;2
+2000;centroeste;colon;metastaticos;IV;>=60;0;0;1
+2000;centroeste;reto;nao metastaticos;I;>=60;0;0;1
+2000;centroeste;reto;nao metastaticos;II;<60;0;0;1
+2000;centroeste;reto;nao metastaticos;II;>=60;0;0;1
+2000;centroeste;reto;nao metastaticos;III;<60;0;0;1
+2000;centroeste;reto;nao metastaticos;III;>=60;0;1;1
+2000;centroeste;reto;metastaticos;IV;<60;1;2;2
+2000;centroeste;reto;metastaticos;IV;>=60;0;0;4
+2000;nordeste;colon;nao metastaticos;I;<60;0;0;3
+2000;nordeste;colon;nao metastaticos;I;>=60;0;1;5
+2000;nordeste;colon;nao metastaticos;II;<60;0;1;14
+2000;nordeste;colon;nao metastaticos;II;>=60;0;0;11
+2000;nordeste;colon;nao metastaticos;III;<60;1;2;14
+2000;nordeste;colon;nao metastaticos;III;>=60;2;4;14
+2000;nordeste;colon;metastaticos;IV;<60;0;1;6
+2000;nordeste;colon;metastaticos;IV;>=60;1;2;4
+2000;nordeste;juncao retossigmoide;nao metastaticos;I;>=60;0;1;2
+2000;nordeste;juncao retossigmoide;nao metastaticos;II;<60;0;1;1
+2000;nordeste;juncao retossigmoide;nao metastaticos;II;>=60;0;0;2
+2000;nordeste;juncao retossigmoide;nao metastaticos;III;<60;0;0;2
+2000;nordeste;juncao retossigmoide;nao metastaticos;III;>=60;0;0;1
+2000;nordeste;juncao retossigmoide;metastaticos;IV;<60;0;0;2
+2000;nordeste;reto;nao metastaticos;I;<60;0;0;2
+2000;nordeste;reto;nao metastaticos;I;>=60;1;2;7
+2000;nordeste;reto;nao metastaticos;II;<60;1;7;24
+2000;nordeste;reto;nao metastaticos;II;>=60;1;2;23
+2000;nordeste;reto;nao metastaticos;III;<60;0;0;6
+2000;nordeste;reto;nao metastaticos;III;>=60;0;2;4
+2000;nordeste;reto;metastaticos;IV;<60;1;2;5
+2000;nordeste;reto;metastaticos;IV;>=60;0;0;4
+2000;norte;colon;nao metastaticos;I;<60;0;0;2
+2000;norte;colon;nao metastaticos;II;<60;0;0;2
+2000;norte;colon;nao metastaticos;III;>=60;0;0;1
+2000;norte;reto;nao metastaticos;II;<60;0;0;1
+2000;norte;reto;nao metastaticos;II;>=60;0;0;1
+2000;norte;reto;nao metastaticos;III;<60;1;1;3
+2000;norte;reto;nao metastaticos;III;>=60;0;0;3
+2000;sudeste;colon;nao metastaticos;I;<60;0;6;33
+2000;sudeste;colon;nao metastaticos;I;>=60;4;30;47
+2000;sudeste;colon;nao metastaticos;II;<60;10;50;139
+2000;sudeste;colon;nao metastaticos;II;>=60;17;87;159
+2000;sudeste;colon;nao metastaticos;III;<60;14;59;111
+2000;sudeste;colon;nao metastaticos;III;>=60;28;99;149
+2000;sudeste;colon;metastaticos;IV;<60;56;107;121
+2000;sudeste;colon;metastaticos;IV;>=60;55;105;123
+2000;sudeste;juncao retossigmoide;nao metastaticos;I;<60;0;1;5
+2000;sudeste;juncao retossigmoide;nao metastaticos;I;>=60;0;1;3
+2000;sudeste;juncao retossigmoide;nao metastaticos;II;<60;0;2;8
+2000;sudeste;juncao retossigmoide;nao metastaticos;II;>=60;2;4;10
+2000;sudeste;juncao retossigmoide;nao metastaticos;III;<60;1;8;9
+2000;sudeste;juncao retossigmoide;nao metastaticos;III;>=60;2;9;14
+2000;sudeste;juncao retossigmoide;metastaticos;IV;<60;2;3;4
+2000;sudeste;juncao retossigmoide;metastaticos;IV;>=60;4;7;10
+2000;sudeste;reto;nao metastaticos;I;<60;1;14;50
+2000;sudeste;reto;nao metastaticos;I;>=60;10;37;55
+2000;sudeste;reto;nao metastaticos;II;<60;15;49;99
+2000;sudeste;reto;nao metastaticos;II;>=60;28;82;130
+2000;sudeste;reto;nao metastaticos;III;<60;11;51;85
+2000;sudeste;reto;nao metastaticos;III;>=60;17;80;114
+2000;sudeste;reto;metastaticos;IV;<60;36;61;77
+2000;sudeste;reto;metastaticos;IV;>=60;33;60;74
+2000;sul;colon;nao metastaticos;I;<60;0;0;2
+2000;sul;colon;nao metastaticos;I;>=60;0;0;2
+2000;sul;colon;nao metastaticos;II;<60;0;0;7
+2000;sul;colon;nao metastaticos;II;>=60;1;3;16
+2000;sul;colon;nao metastaticos;III;<60;0;1;9
+2000;sul;colon;nao metastaticos;III;>=60;0;1;6
+2000;sul;colon;metastaticos;IV;<60;0;2;7
+2000;sul;colon;metastaticos;IV;>=60;1;3;7
+2000;sul;juncao retossigmoide;nao metastaticos;III;<60;0;0;1
+2000;sul;juncao retossigmoide;nao metastaticos;III;>=60;0;0;1
+2000;sul;reto;nao metastaticos;I;<60;0;1;2
+2000;sul;reto;nao metastaticos;I;>=60;0;1;1
+2000;sul;reto;nao metastaticos;II;<60;0;0;4
+2000;sul;reto;nao metastaticos;II;>=60;0;0;7
+2000;sul;reto;nao metastaticos;III;<60;0;0;11
+2000;sul;reto;nao metastaticos;III;>=60;0;1;7
+2000;sul;reto;metastaticos;IV;<60;1;1;4
+2000;sul;reto;metastaticos;IV;>=60;1;2;7
+2001;centroeste;colon;nao metastaticos;I;<60;0;0;1
+2001;centroeste;colon;nao metastaticos;II;<60;0;0;2
+2001;centroeste;colon;nao metastaticos;III;<60;0;0;2
+2001;centroeste;colon;nao metastaticos;III;>=60;0;0;2
+2001;centroeste;colon;metastaticos;IV;<60;0;0;2
+2001;centroeste;colon;metastaticos;IV;>=60;0;0;3
+2001;centroeste;reto;nao metastaticos;II;<60;0;0;1
+2001;centroeste;reto;nao metastaticos;III;>=60;0;0;1
+2001;centroeste;reto;metastaticos;IV;<60;0;0;1
+2001;nordeste;colon;nao metastaticos;I;<60;0;1;3
+2001;nordeste;colon;nao metastaticos;I;>=60;1;2;6
+2001;nordeste;colon;nao metastaticos;II;<60;0;0;24
+2001;nordeste;colon;nao metastaticos;II;>=60;0;0;13
+2001;nordeste;colon;nao metastaticos;III;<60;0;3;20
+2001;nordeste;colon;nao metastaticos;III;>=60;1;1;15
+2001;nordeste;colon;metastaticos;IV;<60;5;10;22
+2001;nordeste;colon;metastaticos;IV;>=60;3;3;5
+2001;nordeste;juncao retossigmoide;nao metastaticos;I;<60;0;0;1
+2001;nordeste;juncao retossigmoide;nao metastaticos;I;>=60;0;0;1
+2001;nordeste;juncao retossigmoide;nao metastaticos;II;<60;0;0;3
+2001;nordeste;juncao retossigmoide;nao metastaticos;II;>=60;0;0;3
+2001;nordeste;juncao retossigmoide;nao metastaticos;III;<60;0;0;4
+2001;nordeste;juncao retossigmoide;nao metastaticos;III;>=60;0;0;1
+2001;nordeste;juncao retossigmoide;metastaticos;IV;<60;0;0;3
+2001;nordeste;juncao retossigmoide;metastaticos;IV;>=60;0;0;3
+2001;nordeste;reto;nao metastaticos;I;<60;0;2;4
+2001;nordeste;reto;nao metastaticos;I;>=60;0;1;14
+2001;nordeste;reto;nao metastaticos;II;<60;0;3;32
+2001;nordeste;reto;nao metastaticos;II;>=60;3;4;28
+2001;nordeste;reto;nao metastaticos;III;<60;0;1;17
+2001;nordeste;reto;nao metastaticos;III;>=60;0;2;15
+2001;nordeste;reto;metastaticos;IV;<60;2;2;10
+2001;nordeste;reto;metastaticos;IV;>=60;1;2;18
+2001;norte;colon;nao metastaticos;II;<60;0;2;5
+2001;norte;colon;nao metastaticos;III;<60;0;1;4
+2001;norte;colon;nao metastaticos;III;>=60;0;0;2
+2001;norte;colon;metastaticos;IV;<60;1;1;1
+2001;norte;reto;nao metastaticos;I;<60;0;1;1
+2001;norte;reto;nao metastaticos;I;>=60;0;0;1
+2001;norte;reto;nao metastaticos;II;<60;0;0;3
+2001;norte;reto;nao metastaticos;II;>=60;0;0;4
+2001;norte;reto;nao metastaticos;III;<60;3;4;9
+2001;norte;reto;nao metastaticos;III;>=60;0;0;2
+2001;norte;reto;metastaticos;IV;<60;0;0;1
+2001;norte;reto;metastaticos;IV;>=60;0;0;3
+2001;sudeste;colon;nao metastaticos;I;<60;3;9;37
+2001;sudeste;colon;nao metastaticos;I;>=60;6;38;68
+2001;sudeste;colon;nao metastaticos;II;<60;6;50;127
+2001;sudeste;colon;nao metastaticos;II;>=60;32;91;142
+2001;sudeste;colon;nao metastaticos;III;<60;14;68;138
+2001;sudeste;colon;nao metastaticos;III;>=60;30;96;146
+2001;sudeste;colon;metastaticos;IV;<60;54;89;109
+2001;sudeste;colon;metastaticos;IV;>=60;68;116;136
+2001;sudeste;juncao retossigmoide;nao metastaticos;I;<60;0;2;6
+2001;sudeste;juncao retossigmoide;nao metastaticos;I;>=60;0;4;8
+2001;sudeste;juncao retossigmoide;nao metastaticos;II;<60;0;0;7
+2001;sudeste;juncao retossigmoide;nao metastaticos;II;>=60;3;18;24
+2001;sudeste;juncao retossigmoide;nao metastaticos;III;<60;1;4;11
+2001;sudeste;juncao retossigmoide;nao metastaticos;III;>=60;1;9;15
+2001;sudeste;juncao retossigmoide;metastaticos;IV;<60;2;7;8
+2001;sudeste;juncao retossigmoide;metastaticos;IV;>=60;5;9;12
+2001;sudeste;reto;nao metastaticos;I;<60;3;13;46
+2001;sudeste;reto;nao metastaticos;I;>=60;5;37;69
+2001;sudeste;reto;nao metastaticos;II;<60;6;51;109
+2001;sudeste;reto;nao metastaticos;II;>=60;15;81;129
+2001;sudeste;reto;nao metastaticos;III;<60;11;50;87
+2001;sudeste;reto;nao metastaticos;III;>=60;15;74;101
+2001;sudeste;reto;metastaticos;IV;<60;45;89;97
+2001;sudeste;reto;metastaticos;IV;>=60;51;83;96
+2001;sul;colon;nao metastaticos;I;<60;0;0;1
+2001;sul;colon;nao metastaticos;I;>=60;0;0;2
+2001;sul;colon;nao metastaticos;II;<60;0;1;10
+2001;sul;colon;nao metastaticos;II;>=60;1;2;11
+2001;sul;colon;nao metastaticos;III;<60;3;6;17
+2001;sul;colon;nao metastaticos;III;>=60;1;1;8
+2001;sul;colon;metastaticos;IV;<60;1;3;13
+2001;sul;colon;metastaticos;IV;>=60;2;3;11
+2001;sul;juncao retossigmoide;nao metastaticos;II;<60;0;1;4
+2001;sul;juncao retossigmoide;nao metastaticos;II;>=60;0;0;3
+2001;sul;juncao retossigmoide;nao metastaticos;III;<60;0;0;4
+2001;sul;juncao retossigmoide;nao metastaticos;III;>=60;0;0;5
+2001;sul;juncao retossigmoide;metastaticos;IV;>=60;0;0;2
+2001;sul;reto;nao metastaticos;I;<60;0;0;3
+2001;sul;reto;nao metastaticos;I;>=60;0;0;2
+2001;sul;reto;nao metastaticos;II;<60;0;1;14
+2001;sul;reto;nao metastaticos;II;>=60;1;3;16
+2001;sul;reto;nao metastaticos;III;<60;1;3;18
+2001;sul;reto;nao metastaticos;III;>=60;0;0;15
+2001;sul;reto;metastaticos;IV;<60;0;3;11
+2001;sul;reto;metastaticos;IV;>=60;0;0;3
+2002;centroeste;colon;nao metastaticos;I;<60;0;0;1
+2002;centroeste;colon;nao metastaticos;II;<60;0;0;1
+2002;centroeste;colon;nao metastaticos;II;>=60;0;0;1
+2002;centroeste;colon;nao metastaticos;III;<60;0;0;4
+2002;centroeste;colon;nao metastaticos;III;>=60;0;0;2
+2002;centroeste;colon;metastaticos;IV;<60;0;0;1
+2002;centroeste;colon;metastaticos;IV;>=60;1;2;4
+2002;centroeste;juncao retossigmoide;nao metastaticos;III;>=60;0;0;1
+2002;centroeste;reto;nao metastaticos;I;>=60;0;0;1
+2002;centroeste;reto;nao metastaticos;II;>=60;0;1;1
+2002;centroeste;reto;nao metastaticos;III;<60;0;0;2
+2002;centroeste;reto;nao metastaticos;III;>=60;0;0;2
+2002;centroeste;reto;metastaticos;IV;<60;0;0;1
+2002;centroeste;reto;metastaticos;IV;>=60;0;1;2
+2002;nordeste;colon;nao metastaticos;I;<60;0;0;2
+2002;nordeste;colon;nao metastaticos;I;>=60;0;1;8
+2002;nordeste;colon;nao metastaticos;II;<60;1;1;18
+2002;nordeste;colon;nao metastaticos;II;>=60;0;0;23
+2002;nordeste;colon;nao metastaticos;III;<60;1;1;25
+2002;nordeste;colon;nao metastaticos;III;>=60;2;2;20
+2002;nordeste;colon;metastaticos;IV;<60;2;5;17
+2002;nordeste;colon;metastaticos;IV;>=60;3;6;13
+2002;nordeste;juncao retossigmoide;nao metastaticos;I;<60;0;0;1
+2002;nordeste;juncao retossigmoide;nao metastaticos;I;>=60;0;0;2
+2002;nordeste;juncao retossigmoide;nao metastaticos;II;<60;0;1;5
+2002;nordeste;juncao retossigmoide;nao metastaticos;II;>=60;0;0;2
+2002;nordeste;juncao retossigmoide;nao metastaticos;III;<60;1;1;3
+2002;nordeste;juncao retossigmoide;nao metastaticos;III;>=60;1;3;3
+2002;nordeste;juncao retossigmoide;metastaticos;IV;<60;0;0;3
+2002;nordeste;juncao retossigmoide;metastaticos;IV;>=60;1;1;2
+2002;nordeste;reto;nao metastaticos;I;<60;2;2;11
+2002;nordeste;reto;nao metastaticos;I;>=60;1;4;12
+2002;nordeste;reto;nao metastaticos;II;<60;0;1;32
+2002;nordeste;reto;nao metastaticos;II;>=60;6;10;37
+2002;nordeste;reto;nao metastaticos;III;<60;0;2;24
+2002;nordeste;reto;nao metastaticos;III;>=60;3;7;25
+2002;nordeste;reto;metastaticos;IV;<60;5;8;12
+2002;nordeste;reto;metastaticos;IV;>=60;1;4;14
+2002;norte;colon;nao metastaticos;II;<60;0;0;2
+2002;norte;colon;nao metastaticos;III;<60;0;2;6
+2002;norte;colon;nao metastaticos;III;>=60;1;2;7
+2002;norte;colon;metastaticos;IV;<60;0;0;1
+2002;norte;juncao retossigmoide;nao metastaticos;II;<60;0;0;1
+2002;norte;juncao retossigmoide;nao metastaticos;III;<60;1;1;2
+2002;norte;reto;nao metastaticos;I;<60;0;0;2
+2002;norte;reto;nao metastaticos;I;>=60;1;1;3
+2002;norte;reto;nao metastaticos;II;<60;3;3;10
+2002;norte;reto;nao metastaticos;II;>=60;1;1;2
+2002;norte;reto;nao metastaticos;III;<60;0;1;5
+2002;norte;reto;nao metastaticos;III;>=60;0;2;5
+2002;norte;reto;metastaticos;IV;<60;1;1;2
+2002;norte;reto;metastaticos;IV;>=60;1;1;2
+2002;sudeste;colon;nao metastaticos;I;<60;4;16;55
+2002;sudeste;colon;nao metastaticos;I;>=60;15;47;82
+2002;sudeste;colon;nao metastaticos;II;<60;12;49;136
+2002;sudeste;colon;nao metastaticos;II;>=60;30;129;203
+2002;sudeste;colon;nao metastaticos;III;<60;20;76;144
+2002;sudeste;colon;nao metastaticos;III;>=60;51;124;181
+2002;sudeste;colon;metastaticos;IV;<60;63;118;149
+2002;sudeste;colon;metastaticos;IV;>=60;89;145;173
+2002;sudeste;juncao retossigmoide;nao metastaticos;I;<60;0;2;8
+2002;sudeste;juncao retossigmoide;nao metastaticos;I;>=60;0;7;10
+2002;sudeste;juncao retossigmoide;nao metastaticos;II;<60;1;4;13
+2002;sudeste;juncao retossigmoide;nao metastaticos;II;>=60;2;11;23
+2002;sudeste;juncao retossigmoide;nao metastaticos;III;<60;0;12;22
+2002;sudeste;juncao retossigmoide;nao metastaticos;III;>=60;2;15;23
+2002;sudeste;juncao retossigmoide;metastaticos;IV;<60;3;7;9
+2002;sudeste;juncao retossigmoide;metastaticos;IV;>=60;7;9;10
+2002;sudeste;reto;nao metastaticos;I;<60;4;16;51
+2002;sudeste;reto;nao metastaticos;I;>=60;15;46;81
+2002;sudeste;reto;nao metastaticos;II;<60;11;54;129
+2002;sudeste;reto;nao metastaticos;II;>=60;31;104;150
+2002;sudeste;reto;nao metastaticos;III;<60;19;77;145
+2002;sudeste;reto;nao metastaticos;III;>=60;32;121;161
+2002;sudeste;reto;metastaticos;IV;<60;42;81;90
+2002;sudeste;reto;metastaticos;IV;>=60;49;86;101
+2002;sul;colon;nao metastaticos;I;<60;0;0;7
+2002;sul;colon;nao metastaticos;I;>=60;0;0;6
+2002;sul;colon;nao metastaticos;II;<60;0;0;26
+2002;sul;colon;nao metastaticos;II;>=60;3;4;26
+2002;sul;colon;nao metastaticos;III;<60;3;5;35
+2002;sul;colon;nao metastaticos;III;>=60;1;2;20
+2002;sul;colon;metastaticos;IV;<60;8;15;29
+2002;sul;colon;metastaticos;IV;>=60;7;14;27
+2002;sul;juncao retossigmoide;nao metastaticos;I;<60;0;0;1
+2002;sul;juncao retossigmoide;nao metastaticos;I;>=60;0;0;1
+2002;sul;juncao retossigmoide;nao metastaticos;II;<60;1;1;4
+2002;sul;juncao retossigmoide;nao metastaticos;II;>=60;2;3;9
+2002;sul;juncao retossigmoide;nao metastaticos;III;<60;1;2;8
+2002;sul;juncao retossigmoide;nao metastaticos;III;>=60;0;0;7
+2002;sul;juncao retossigmoide;metastaticos;IV;<60;2;2;7
+2002;sul;juncao retossigmoide;metastaticos;IV;>=60;1;2;2
+2002;sul;reto;nao metastaticos;I;<60;0;0;4
+2002;sul;reto;nao metastaticos;I;>=60;0;1;7
+2002;sul;reto;nao metastaticos;II;<60;0;0;20
+2002;sul;reto;nao metastaticos;II;>=60;0;3;31
+2002;sul;reto;nao metastaticos;III;<60;1;5;35
+2002;sul;reto;nao metastaticos;III;>=60;1;4;40
+2002;sul;reto;metastaticos;IV;<60;2;3;11
+2002;sul;reto;metastaticos;IV;>=60;3;7;19
+2003;centroeste;colon;nao metastaticos;II;<60;0;1;2
+2003;centroeste;colon;nao metastaticos;II;>=60;0;0;2
+2003;centroeste;colon;nao metastaticos;III;<60;0;1;4
+2003;centroeste;colon;nao metastaticos;III;>=60;1;1;6
+2003;centroeste;colon;metastaticos;IV;<60;0;1;2
+2003;centroeste;colon;metastaticos;IV;>=60;0;0;2
+2003;centroeste;juncao retossigmoide;nao metastaticos;III;>=60;0;0;2
+2003;centroeste;reto;nao metastaticos;I;<60;0;0;1
+2003;centroeste;reto;nao metastaticos;I;>=60;0;0;1
+2003;centroeste;reto;nao metastaticos;II;<60;1;2;4
+2003;centroeste;reto;nao metastaticos;II;>=60;0;0;1
+2003;centroeste;reto;nao metastaticos;III;<60;1;1;5
+2003;centroeste;reto;nao metastaticos;III;>=60;0;0;3
+2003;centroeste;reto;metastaticos;IV;<60;0;1;4
+2003;centroeste;reto;metastaticos;IV;>=60;0;0;2
+2003;nordeste;colon;nao metastaticos;I;<60;0;0;3
+2003;nordeste;colon;nao metastaticos;I;>=60;1;1;1
+2003;nordeste;colon;nao metastaticos;II;<60;0;0;12
+2003;nordeste;colon;nao metastaticos;II;>=60;0;2;23
+2003;nordeste;colon;nao metastaticos;III;<60;1;3;14
+2003;nordeste;colon;nao metastaticos;III;>=60;1;1;11
+2003;nordeste;colon;metastaticos;IV;<60;3;4;12
+2003;nordeste;colon;metastaticos;IV;>=60;3;8;18
+2003;nordeste;juncao retossigmoide;nao metastaticos;II;<60;0;1;4
+2003;nordeste;juncao retossigmoide;nao metastaticos;II;>=60;0;0;5
+2003;nordeste;juncao retossigmoide;nao metastaticos;III;<60;0;0;5
+2003;nordeste;juncao retossigmoide;nao metastaticos;III;>=60;0;0;3
+2003;nordeste;juncao retossigmoide;metastaticos;IV;<60;0;1;1
+2003;nordeste;juncao retossigmoide;metastaticos;IV;>=60;2;2;2
+2003;nordeste;reto;nao metastaticos;I;<60;1;2;13
+2003;nordeste;reto;nao metastaticos;I;>=60;0;1;12
+2003;nordeste;reto;nao metastaticos;II;<60;3;4;37
+2003;nordeste;reto;nao metastaticos;II;>=60;4;6;39
+2003;nordeste;reto;nao metastaticos;III;<60;5;7;30
+2003;nordeste;reto;nao metastaticos;III;>=60;0;2;11
+2003;nordeste;reto;metastaticos;IV;<60;2;3;14
+2003;nordeste;reto;metastaticos;IV;>=60;4;6;11
+2003;norte;colon;nao metastaticos;I;<60;0;0;2
+2003;norte;colon;nao metastaticos;II;<60;2;2;5
+2003;norte;colon;nao metastaticos;II;>=60;1;2;6
+2003;norte;colon;nao metastaticos;III;<60;0;1;7
+2003;norte;colon;nao metastaticos;III;>=60;0;0;3
+2003;norte;colon;metastaticos;IV;<60;1;2;3
+2003;norte;juncao retossigmoide;nao metastaticos;II;<60;1;1;3
+2003;norte;juncao retossigmoide;nao metastaticos;II;>=60;0;0;1
+2003;norte;juncao retossigmoide;metastaticos;IV;>=60;0;0;1
+2003;norte;reto;nao metastaticos;I;<60;0;0;1
+2003;norte;reto;nao metastaticos;I;>=60;0;0;1
+2003;norte;reto;nao metastaticos;II;<60;0;1;4
+2003;norte;reto;nao metastaticos;II;>=60;0;3;8
+2003;norte;reto;nao metastaticos;III;<60;0;2;9
+2003;norte;reto;nao metastaticos;III;>=60;0;1;4
+2003;norte;reto;metastaticos;IV;<60;0;1;4
+2003;norte;reto;metastaticos;IV;>=60;0;0;2
+2003;sudeste;colon;nao metastaticos;I;<60;4;11;38
+2003;sudeste;colon;nao metastaticos;I;>=60;9;43;73
+2003;sudeste;colon;nao metastaticos;II;<60;19;65;166
+2003;sudeste;colon;nao metastaticos;II;>=60;47;154;243
+2003;sudeste;colon;nao metastaticos;III;<60;24;88;172
+2003;sudeste;colon;nao metastaticos;III;>=60;50;133;206
+2003;sudeste;colon;metastaticos;IV;<60;91;151;177
+2003;sudeste;colon;metastaticos;IV;>=60;97;152;179
+2003;sudeste;juncao retossigmoide;nao metastaticos;I;<60;0;3;7
+2003;sudeste;juncao retossigmoide;nao metastaticos;I;>=60;2;8;13
+2003;sudeste;juncao retossigmoide;nao metastaticos;II;<60;1;4;23
+2003;sudeste;juncao retossigmoide;nao metastaticos;II;>=60;6;27;34
+2003;sudeste;juncao retossigmoide;nao metastaticos;III;<60;3;14;27
+2003;sudeste;juncao retossigmoide;nao metastaticos;III;>=60;3;14;23
+2003;sudeste;juncao retossigmoide;metastaticos;IV;<60;9;13;15
+2003;sudeste;juncao retossigmoide;metastaticos;IV;>=60;8;11;13
+2003;sudeste;reto;nao metastaticos;I;<60;4;15;63
+2003;sudeste;reto;nao metastaticos;I;>=60;8;40;74
+2003;sudeste;reto;nao metastaticos;II;<60;9;55;118
+2003;sudeste;reto;nao metastaticos;II;>=60;30;109;176
+2003;sudeste;reto;nao metastaticos;III;<60;18;89;152
+2003;sudeste;reto;nao metastaticos;III;>=60;26;107;164
+2003;sudeste;reto;metastaticos;IV;<60;40;86;97
+2003;sudeste;reto;metastaticos;IV;>=60;48;85;95
+2003;sul;colon;nao metastaticos;I;<60;0;0;3
+2003;sul;colon;nao metastaticos;I;>=60;1;3;10
+2003;sul;colon;nao metastaticos;II;<60;3;10;38
+2003;sul;colon;nao metastaticos;II;>=60;1;8;39
+2003;sul;colon;nao metastaticos;III;<60;1;6;33
+2003;sul;colon;nao metastaticos;III;>=60;2;8;42
+2003;sul;colon;metastaticos;IV;<60;11;13;30
+2003;sul;colon;metastaticos;IV;>=60;8;14;28
+2003;sul;juncao retossigmoide;nao metastaticos;I;<60;0;1;2
+2003;sul;juncao retossigmoide;nao metastaticos;I;>=60;0;1;1
+2003;sul;juncao retossigmoide;nao metastaticos;II;<60;0;1;5
+2003;sul;juncao retossigmoide;nao metastaticos;II;>=60;0;1;10
+2003;sul;juncao retossigmoide;nao metastaticos;III;<60;1;2;6
+2003;sul;juncao retossigmoide;nao metastaticos;III;>=60;0;0;8
+2003;sul;juncao retossigmoide;metastaticos;IV;<60;0;3;6
+2003;sul;juncao retossigmoide;metastaticos;IV;>=60;5;7;10
+2003;sul;reto;nao metastaticos;I;<60;0;1;5
+2003;sul;reto;nao metastaticos;I;>=60;1;4;14
+2003;sul;reto;nao metastaticos;II;<60;1;5;34
+2003;sul;reto;nao metastaticos;II;>=60;4;8;29
+2003;sul;reto;nao metastaticos;III;<60;1;14;57
+2003;sul;reto;nao metastaticos;III;>=60;1;5;33
+2003;sul;reto;metastaticos;IV;<60;4;9;19
+2003;sul;reto;metastaticos;IV;>=60;8;12;36
+2004;centroeste;colon;nao metastaticos;I;<60;0;0;1
+2004;centroeste;colon;nao metastaticos;I;>=60;1;1;1
+2004;centroeste;colon;nao metastaticos;II;<60;0;2;5
+2004;centroeste;colon;nao metastaticos;II;>=60;1;1;4
+2004;centroeste;colon;nao metastaticos;III;<60;0;1;2
+2004;centroeste;colon;metastaticos;IV;<60;0;1;3
+2004;centroeste;colon;metastaticos;IV;>=60;0;1;1
+2004;centroeste;juncao retossigmoide;nao metastaticos;III;<60;0;0;2
+2004;centroeste;juncao retossigmoide;metastaticos;IV;<60;1;1;2
+2004;centroeste;juncao retossigmoide;metastaticos;IV;>=60;0;0;1
+2004;centroeste;reto;nao metastaticos;II;<60;0;2;5
+2004;centroeste;reto;nao metastaticos;II;>=60;0;0;3
+2004;centroeste;reto;nao metastaticos;III;<60;0;2;4
+2004;centroeste;reto;nao metastaticos;III;>=60;2;2;7
+2004;centroeste;reto;metastaticos;IV;<60;1;1;4
+2004;centroeste;reto;metastaticos;IV;>=60;1;3;9
+2004;nordeste;colon;nao metastaticos;I;<60;0;0;1
+2004;nordeste;colon;nao metastaticos;I;>=60;0;1;2
+2004;nordeste;colon;nao metastaticos;II;<60;0;2;16
+2004;nordeste;colon;nao metastaticos;II;>=60;0;0;16
+2004;nordeste;colon;nao metastaticos;III;<60;3;5;19
+2004;nordeste;colon;nao metastaticos;III;>=60;2;6;14
+2004;nordeste;colon;metastaticos;IV;<60;1;3;11
+2004;nordeste;colon;metastaticos;IV;>=60;2;3;10
+2004;nordeste;juncao retossigmoide;nao metastaticos;II;<60;2;3;9
+2004;nordeste;juncao retossigmoide;nao metastaticos;II;>=60;0;0;1
+2004;nordeste;juncao retossigmoide;nao metastaticos;III;<60;0;1;8
+2004;nordeste;juncao retossigmoide;nao metastaticos;III;>=60;0;1;2
+2004;nordeste;juncao retossigmoide;metastaticos;IV;<60;1;2;5
+2004;nordeste;juncao retossigmoide;metastaticos;IV;>=60;0;1;4
+2004;nordeste;reto;nao metastaticos;I;<60;0;0;10
+2004;nordeste;reto;nao metastaticos;I;>=60;1;2;12
+2004;nordeste;reto;nao metastaticos;II;<60;4;6;57
+2004;nordeste;reto;nao metastaticos;II;>=60;6;12;52
+2004;nordeste;reto;nao metastaticos;III;<60;2;8;27
+2004;nordeste;reto;nao metastaticos;III;>=60;1;3;14
+2004;nordeste;reto;metastaticos;IV;<60;0;0;8
+2004;nordeste;reto;metastaticos;IV;>=60;3;8;13
+2004;norte;colon;nao metastaticos;I;<60;0;0;1
+2004;norte;colon;nao metastaticos;I;>=60;0;0;1
+2004;norte;colon;nao metastaticos;II;<60;0;2;11
+2004;norte;colon;nao metastaticos;II;>=60;0;0;8
+2004;norte;colon;nao metastaticos;III;<60;1;3;7
+2004;norte;colon;nao metastaticos;III;>=60;1;2;4
+2004;norte;colon;metastaticos;IV;<60;1;2;4
+2004;norte;colon;metastaticos;IV;>=60;1;2;3
+2004;norte;juncao retossigmoide;nao metastaticos;I;<60;0;1;1
+2004;norte;juncao retossigmoide;nao metastaticos;II;<60;0;1;1
+2004;norte;juncao retossigmoide;nao metastaticos;III;<60;0;0;2
+2004;norte;juncao retossigmoide;metastaticos;IV;>=60;0;1;1
+2004;norte;reto;nao metastaticos;I;>=60;0;0;2
+2004;norte;reto;nao metastaticos;II;<60;0;1;5
+2004;norte;reto;nao metastaticos;II;>=60;0;1;5
+2004;norte;reto;nao metastaticos;III;<60;1;2;8
+2004;norte;reto;nao metastaticos;III;>=60;1;2;5
+2004;norte;reto;metastaticos;IV;<60;1;1;3
+2004;sudeste;colon;nao metastaticos;I;<60;1;9;56
+2004;sudeste;colon;nao metastaticos;I;>=60;14;38;77
+2004;sudeste;colon;nao metastaticos;II;<60;12;54;175
+2004;sudeste;colon;nao metastaticos;II;>=60;43;121;238
+2004;sudeste;colon;nao metastaticos;III;<60;23;101;193
+2004;sudeste;colon;nao metastaticos;III;>=60;45;144;221
+2004;sudeste;colon;metastaticos;IV;<60;73;129;158
+2004;sudeste;colon;metastaticos;IV;>=60;123;187;216
+2004;sudeste;juncao retossigmoide;nao metastaticos;I;<60;0;2;9
+2004;sudeste;juncao retossigmoide;nao metastaticos;I;>=60;2;8;20
+2004;sudeste;juncao retossigmoide;nao metastaticos;II;<60;3;11;23
+2004;sudeste;juncao retossigmoide;nao metastaticos;II;>=60;8;24;40
+2004;sudeste;juncao retossigmoide;nao metastaticos;III;<60;7;17;35
+2004;sudeste;juncao retossigmoide;nao metastaticos;III;>=60;3;17;40
+2004;sudeste;juncao retossigmoide;metastaticos;IV;<60;5;14;16
+2004;sudeste;juncao retossigmoide;metastaticos;IV;>=60;10;18;21
+2004;sudeste;reto;nao metastaticos;I;<60;2;25;61
+2004;sudeste;reto;nao metastaticos;I;>=60;13;56;97
+2004;sudeste;reto;nao metastaticos;II;<60;12;69;142
+2004;sudeste;reto;nao metastaticos;II;>=60;37;109;181
+2004;sudeste;reto;nao metastaticos;III;<60;18;84;161
+2004;sudeste;reto;nao metastaticos;III;>=60;44;143;201
+2004;sudeste;reto;metastaticos;IV;<60;47;80;98
+2004;sudeste;reto;metastaticos;IV;>=60;65;107;116
+2004;sul;colon;nao metastaticos;I;<60;0;0;9
+2004;sul;colon;nao metastaticos;I;>=60;0;0;7
+2004;sul;colon;nao metastaticos;II;<60;0;5;55
+2004;sul;colon;nao metastaticos;II;>=60;4;10;48
+2004;sul;colon;nao metastaticos;III;<60;1;12;49
+2004;sul;colon;nao metastaticos;III;>=60;3;10;48
+2004;sul;colon;metastaticos;IV;<60;12;18;45
+2004;sul;colon;metastaticos;IV;>=60;10;21;47
+2004;sul;juncao retossigmoide;nao metastaticos;I;<60;0;1;2
+2004;sul;juncao retossigmoide;nao metastaticos;I;>=60;1;1;4
+2004;sul;juncao retossigmoide;nao metastaticos;II;<60;1;1;9
+2004;sul;juncao retossigmoide;nao metastaticos;II;>=60;2;4;8
+2004;sul;juncao retossigmoide;nao metastaticos;III;<60;0;5;11
+2004;sul;juncao retossigmoide;nao metastaticos;III;>=60;1;3;5
+2004;sul;juncao retossigmoide;metastaticos;IV;<60;6;6;11
+2004;sul;juncao retossigmoide;metastaticos;IV;>=60;3;3;14
+2004;sul;reto;nao metastaticos;I;<60;0;0;11
+2004;sul;reto;nao metastaticos;I;>=60;0;0;6
+2004;sul;reto;nao metastaticos;II;<60;1;9;46
+2004;sul;reto;nao metastaticos;II;>=60;2;8;55
+2004;sul;reto;nao metastaticos;III;<60;4;9;55
+2004;sul;reto;nao metastaticos;III;>=60;4;11;46
+2004;sul;reto;metastaticos;IV;<60;9;16;28
+2004;sul;reto;metastaticos;IV;>=60;6;9;32
+2005;centroeste;colon;nao metastaticos;II;<60;0;0;4
+2005;centroeste;colon;nao metastaticos;II;>=60;0;0;1
+2005;centroeste;colon;nao metastaticos;III;<60;0;1;5
+2005;centroeste;colon;nao metastaticos;III;>=60;1;1;2
+2005;centroeste;colon;metastaticos;IV;<60;2;3;4
+2005;centroeste;colon;metastaticos;IV;>=60;1;1;5
+2005;centroeste;juncao retossigmoide;nao metastaticos;III;>=60;0;0;3
+2005;centroeste;juncao retossigmoide;metastaticos;IV;<60;1;2;2
+2005;centroeste;reto;nao metastaticos;II;<60;0;0;2
+2005;centroeste;reto;nao metastaticos;II;>=60;0;0;6
+2005;centroeste;reto;nao metastaticos;III;<60;1;3;4
+2005;centroeste;reto;metastaticos;IV;<60;1;1;3
+2005;centroeste;reto;metastaticos;IV;>=60;1;1;2
+2005;nordeste;colon;nao metastaticos;I;<60;0;2;5
+2005;nordeste;colon;nao metastaticos;I;>=60;0;0;6
+2005;nordeste;colon;nao metastaticos;II;<60;0;2;32
+2005;nordeste;colon;nao metastaticos;II;>=60;0;0;19
+2005;nordeste;colon;nao metastaticos;III;<60;0;1;35
+2005;nordeste;colon;nao metastaticos;III;>=60;2;2;19
+2005;nordeste;colon;metastaticos;IV;<60;2;8;18
+2005;nordeste;colon;metastaticos;IV;>=60;7;9;23
+2005;nordeste;juncao retossigmoide;nao metastaticos;I;<60;0;0;1
+2005;nordeste;juncao retossigmoide;nao metastaticos;I;>=60;0;0;4
+2005;nordeste;juncao retossigmoide;nao metastaticos;II;<60;0;0;6
+2005;nordeste;juncao retossigmoide;nao metastaticos;II;>=60;2;3;6
+2005;nordeste;juncao retossigmoide;nao metastaticos;III;<60;0;1;6
+2005;nordeste;juncao retossigmoide;nao metastaticos;III;>=60;1;2;6
+2005;nordeste;juncao retossigmoide;metastaticos;IV;<60;1;2;5
+2005;nordeste;juncao retossigmoide;metastaticos;IV;>=60;0;0;4
+2005;nordeste;reto;nao metastaticos;I;<60;0;0;12
+2005;nordeste;reto;nao metastaticos;I;>=60;2;3;15
+2005;nordeste;reto;nao metastaticos;II;<60;5;7;49
+2005;nordeste;reto;nao metastaticos;II;>=60;4;6;46
+2005;nordeste;reto;nao metastaticos;III;<60;1;5;36
+2005;nordeste;reto;nao metastaticos;III;>=60;2;8;41
+2005;nordeste;reto;metastaticos;IV;<60;4;8;25
+2005;nordeste;reto;metastaticos;IV;>=60;4;8;15
+2005;norte;colon;nao metastaticos;I;>=60;0;0;1
+2005;norte;colon;nao metastaticos;II;<60;0;1;5
+2005;norte;colon;nao metastaticos;II;>=60;2;2;4
+2005;norte;colon;nao metastaticos;III;<60;0;1;4
+2005;norte;colon;nao metastaticos;III;>=60;0;0;1
+2005;norte;colon;metastaticos;IV;<60;1;2;3
+2005;norte;colon;metastaticos;IV;>=60;3;4;7
+2005;norte;juncao retossigmoide;nao metastaticos;II;<60;0;0;4
+2005;norte;juncao retossigmoide;nao metastaticos;II;>=60;0;1;4
+2005;norte;juncao retossigmoide;nao metastaticos;III;<60;0;1;1
+2005;norte;juncao retossigmoide;nao metastaticos;III;>=60;0;1;2
+2005;norte;juncao retossigmoide;metastaticos;IV;>=60;0;3;3
+2005;norte;reto;nao metastaticos;I;<60;0;0;2
+2005;norte;reto;nao metastaticos;I;>=60;0;0;1
+2005;norte;reto;nao metastaticos;II;<60;2;2;6
+2005;norte;reto;nao metastaticos;II;>=60;1;1;5
+2005;norte;reto;nao metastaticos;III;<60;1;2;7
+2005;norte;reto;nao metastaticos;III;>=60;1;2;5
+2005;norte;reto;metastaticos;IV;<60;2;2;5
+2005;norte;reto;metastaticos;IV;>=60;0;3;8
+2005;sudeste;colon;nao metastaticos;I;<60;1;8;60
+2005;sudeste;colon;nao metastaticos;I;>=60;14;40;98
+2005;sudeste;colon;nao metastaticos;II;<60;11;41;204
+2005;sudeste;colon;nao metastaticos;II;>=60;50;165;307
+2005;sudeste;colon;nao metastaticos;III;<60;20;80;198
+2005;sudeste;colon;nao metastaticos;III;>=60;68;201;300
+2005;sudeste;colon;metastaticos;IV;<60;120;224;250
+2005;sudeste;colon;metastaticos;IV;>=60;120;193;232
+2005;sudeste;juncao retossigmoide;nao metastaticos;I;<60;0;3;9
+2005;sudeste;juncao retossigmoide;nao metastaticos;I;>=60;5;8;18
+2005;sudeste;juncao retossigmoide;nao metastaticos;II;<60;0;4;28
+2005;sudeste;juncao retossigmoide;nao metastaticos;II;>=60;7;23;46
+2005;sudeste;juncao retossigmoide;nao metastaticos;III;<60;3;15;37
+2005;sudeste;juncao retossigmoide;nao metastaticos;III;>=60;6;18;35
+2005;sudeste;juncao retossigmoide;metastaticos;IV;<60;10;19;22
+2005;sudeste;juncao retossigmoide;metastaticos;IV;>=60;15;23;31
+2005;sudeste;reto;nao metastaticos;I;<60;3;22;75
+2005;sudeste;reto;nao metastaticos;I;>=60;22;71;132
+2005;sudeste;reto;nao metastaticos;II;<60;8;59;156
+2005;sudeste;reto;nao metastaticos;II;>=60;33;139;243
+2005;sudeste;reto;nao metastaticos;III;<60;22;98;180
+2005;sudeste;reto;nao metastaticos;III;>=60;50;170;225
+2005;sudeste;reto;metastaticos;IV;<60;60;104;130
+2005;sudeste;reto;metastaticos;IV;>=60;85;136;150
+2005;sul;colon;nao metastaticos;I;<60;0;0;11
+2005;sul;colon;nao metastaticos;I;>=60;0;4;20
+2005;sul;colon;nao metastaticos;II;<60;0;5;49
+2005;sul;colon;nao metastaticos;II;>=60;2;8;50
+2005;sul;colon;nao metastaticos;III;<60;6;16;79
+2005;sul;colon;nao metastaticos;III;>=60;7;20;73
+2005;sul;colon;metastaticos;IV;<60;12;21;35
+2005;sul;colon;metastaticos;IV;>=60;15;25;58
+2005;sul;juncao retossigmoide;nao metastaticos;I;<60;0;1;3
+2005;sul;juncao retossigmoide;nao metastaticos;I;>=60;0;0;3
+2005;sul;juncao retossigmoide;nao metastaticos;II;<60;2;3;7
+2005;sul;juncao retossigmoide;nao metastaticos;II;>=60;3;5;14
+2005;sul;juncao retossigmoide;nao metastaticos;III;<60;0;6;16
+2005;sul;juncao retossigmoide;nao metastaticos;III;>=60;3;8;18
+2005;sul;juncao retossigmoide;metastaticos;IV;<60;3;6;15
+2005;sul;juncao retossigmoide;metastaticos;IV;>=60;3;4;7
+2005;sul;reto;nao metastaticos;I;<60;0;4;16
+2005;sul;reto;nao metastaticos;I;>=60;0;1;15
+2005;sul;reto;nao metastaticos;II;<60;3;10;55
+2005;sul;reto;nao metastaticos;II;>=60;6;18;81
+2005;sul;reto;nao metastaticos;III;<60;3;15;62
+2005;sul;reto;nao metastaticos;III;>=60;6;16;70
+2005;sul;reto;metastaticos;IV;<60;9;21;35
+2005;sul;reto;metastaticos;IV;>=60;9;15;36
+2006;centroeste;colon;nao metastaticos;I;>=60;0;0;1
+2006;centroeste;colon;nao metastaticos;II;<60;0;0;8
+2006;centroeste;colon;nao metastaticos;II;>=60;0;0;3
+2006;centroeste;colon;nao metastaticos;III;<60;0;0;2
+2006;centroeste;colon;nao metastaticos;III;>=60;1;2;7
+2006;centroeste;colon;metastaticos;IV;<60;0;1;1
+2006;centroeste;colon;metastaticos;IV;>=60;0;1;6
+2006;centroeste;juncao retossigmoide;nao metastaticos;III;<60;0;0;1
+2006;centroeste;juncao retossigmoide;nao metastaticos;III;>=60;0;0;1
+2006;centroeste;juncao retossigmoide;metastaticos;IV;<60;0;0;1
+2006;centroeste;reto;nao metastaticos;I;<60;0;0;1
+2006;centroeste;reto;nao metastaticos;I;>=60;0;0;1
+2006;centroeste;reto;nao metastaticos;II;<60;1;1;2
+2006;centroeste;reto;nao metastaticos;II;>=60;0;0;4
+2006;centroeste;reto;nao metastaticos;III;<60;2;2;3
+2006;centroeste;reto;nao metastaticos;III;>=60;0;1;5
+2006;centroeste;reto;metastaticos;IV;<60;1;3;3
+2006;centroeste;reto;metastaticos;IV;>=60;0;1;2
+2006;nordeste;colon;nao metastaticos;I;<60;0;0;5
+2006;nordeste;colon;nao metastaticos;I;>=60;0;0;7
+2006;nordeste;colon;nao metastaticos;II;<60;2;3;53
+2006;nordeste;colon;nao metastaticos;II;>=60;1;1;38
+2006;nordeste;colon;nao metastaticos;III;<60;3;5;44
+2006;nordeste;colon;nao metastaticos;III;>=60;1;4;35
+2006;nordeste;colon;metastaticos;IV;<60;4;9;28
+2006;nordeste;colon;metastaticos;IV;>=60;4;10;28
+2006;nordeste;juncao retossigmoide;nao metastaticos;I;<60;0;0;4
+2006;nordeste;juncao retossigmoide;nao metastaticos;I;>=60;0;1;6
+2006;nordeste;juncao retossigmoide;nao metastaticos;II;<60;0;0;7
+2006;nordeste;juncao retossigmoide;nao metastaticos;II;>=60;1;1;11
+2006;nordeste;juncao retossigmoide;nao metastaticos;III;<60;0;1;5
+2006;nordeste;juncao retossigmoide;nao metastaticos;III;>=60;1;3;10
+2006;nordeste;juncao retossigmoide;metastaticos;IV;<60;0;0;5
+2006;nordeste;juncao retossigmoide;metastaticos;IV;>=60;3;3;6
+2006;nordeste;reto;nao metastaticos;I;<60;0;3;17
+2006;nordeste;reto;nao metastaticos;I;>=60;1;2;15
+2006;nordeste;reto;nao metastaticos;II;<60;3;4;48
+2006;nordeste;reto;nao metastaticos;II;>=60;3;7;66
+2006;nordeste;reto;nao metastaticos;III;<60;2;10;42
+2006;nordeste;reto;nao metastaticos;III;>=60;5;12;54
+2006;nordeste;reto;metastaticos;IV;<60;3;7;22
+2006;nordeste;reto;metastaticos;IV;>=60;2;5;22
+2006;norte;colon;nao metastaticos;I;>=60;0;0;1
+2006;norte;colon;nao metastaticos;II;<60;0;1;12
+2006;norte;colon;nao metastaticos;II;>=60;0;1;4
+2006;norte;colon;nao metastaticos;III;<60;2;4;9
+2006;norte;colon;nao metastaticos;III;>=60;2;2;8
+2006;norte;colon;metastaticos;IV;<60;0;0;1
+2006;norte;colon;metastaticos;IV;>=60;2;2;3
+2006;norte;juncao retossigmoide;nao metastaticos;I;<60;0;0;1
+2006;norte;juncao retossigmoide;nao metastaticos;II;>=60;0;1;1
+2006;norte;juncao retossigmoide;nao metastaticos;III;<60;1;1;3
+2006;norte;juncao retossigmoide;nao metastaticos;III;>=60;0;2;4
+2006;norte;juncao retossigmoide;metastaticos;IV;<60;0;1;1
+2006;norte;reto;nao metastaticos;I;<60;0;0;1
+2006;norte;reto;nao metastaticos;I;>=60;1;1;2
+2006;norte;reto;nao metastaticos;II;<60;0;0;1
+2006;norte;reto;nao metastaticos;II;>=60;0;0;4
+2006;norte;reto;nao metastaticos;III;<60;3;5;12
+2006;norte;reto;nao metastaticos;III;>=60;1;2;4
+2006;norte;reto;metastaticos;IV;<60;3;6;7
+2006;norte;reto;metastaticos;IV;>=60;1;2;4
+2006;sudeste;colon;nao metastaticos;I;<60;3;8;54
+2006;sudeste;colon;nao metastaticos;I;>=60;11;39;95
+2006;sudeste;colon;nao metastaticos;II;<60;9;47;179
+2006;sudeste;colon;nao metastaticos;II;>=60;50;136;280
+2006;sudeste;colon;nao metastaticos;III;<60;14;81;206
+2006;sudeste;colon;nao metastaticos;III;>=60;68;177;297
+2006;sudeste;colon;metastaticos;IV;<60;100;183;232
+2006;sudeste;colon;metastaticos;IV;>=60;122;188;225
+2006;sudeste;juncao retossigmoide;nao metastaticos;I;<60;1;2;13
+2006;sudeste;juncao retossigmoide;nao metastaticos;I;>=60;1;9;17
+2006;sudeste;juncao retossigmoide;nao metastaticos;II;<60;1;11;23
+2006;sudeste;juncao retossigmoide;nao metastaticos;II;>=60;6;17;40
+2006;sudeste;juncao retossigmoide;nao metastaticos;III;<60;2;14;35
+2006;sudeste;juncao retossigmoide;nao metastaticos;III;>=60;5;17;41
+2006;sudeste;juncao retossigmoide;metastaticos;IV;<60;5;19;24
+2006;sudeste;juncao retossigmoide;metastaticos;IV;>=60;14;31;36
+2006;sudeste;reto;nao metastaticos;I;<60;3;25;85
+2006;sudeste;reto;nao metastaticos;I;>=60;15;49;113
+2006;sudeste;reto;nao metastaticos;II;<60;20;56;131
+2006;sudeste;reto;nao metastaticos;II;>=60;29;114;203
+2006;sudeste;reto;nao metastaticos;III;<60;20;105;205
+2006;sudeste;reto;nao metastaticos;III;>=60;34;126;214
+2006;sudeste;reto;metastaticos;IV;<60;72;121;145
+2006;sudeste;reto;metastaticos;IV;>=60;61;121;140
+2006;sul;colon;nao metastaticos;I;<60;0;0;19
+2006;sul;colon;nao metastaticos;I;>=60;1;2;14
+2006;sul;colon;nao metastaticos;II;<60;3;5;63
+2006;sul;colon;nao metastaticos;II;>=60;4;9;75
+2006;sul;colon;nao metastaticos;III;<60;2;6;72
+2006;sul;colon;nao metastaticos;III;>=60;9;18;85
+2006;sul;colon;metastaticos;IV;<60;15;32;86
+2006;sul;colon;metastaticos;IV;>=60;18;36;101
+2006;sul;juncao retossigmoide;nao metastaticos;I;<60;0;0;3
+2006;sul;juncao retossigmoide;nao metastaticos;I;>=60;1;1;6
+2006;sul;juncao retossigmoide;nao metastaticos;II;<60;2;2;9
+2006;sul;juncao retossigmoide;nao metastaticos;II;>=60;0;2;9
+2006;sul;juncao retossigmoide;nao metastaticos;III;<60;0;1;17
+2006;sul;juncao retossigmoide;nao metastaticos;III;>=60;1;4;14
+2006;sul;juncao retossigmoide;metastaticos;IV;<60;1;5;14
+2006;sul;juncao retossigmoide;metastaticos;IV;>=60;4;9;17
+2006;sul;reto;nao metastaticos;I;<60;0;0;25
+2006;sul;reto;nao metastaticos;I;>=60;0;2;27
+2006;sul;reto;nao metastaticos;II;<60;2;12;69
+2006;sul;reto;nao metastaticos;II;>=60;6;13;87
+2006;sul;reto;nao metastaticos;III;<60;5;13;77
+2006;sul;reto;nao metastaticos;III;>=60;6;17;97
+2006;sul;reto;metastaticos;IV;<60;15;22;64
+2006;sul;reto;metastaticos;IV;>=60;9;14;52
+2007;centroeste;colon;nao metastaticos;I;<60;0;0;2
+2007;centroeste;colon;nao metastaticos;II;<60;0;0;4
+2007;centroeste;colon;nao metastaticos;II;>=60;0;0;3
+2007;centroeste;colon;nao metastaticos;III;<60;0;1;5
+2007;centroeste;colon;nao metastaticos;III;>=60;2;4;7
+2007;centroeste;colon;metastaticos;IV;<60;1;2;5
+2007;centroeste;colon;metastaticos;IV;>=60;5;7;11
+2007;centroeste;juncao retossigmoide;nao metastaticos;II;<60;0;0;2
+2007;centroeste;juncao retossigmoide;nao metastaticos;III;<60;0;0;4
+2007;centroeste;juncao retossigmoide;nao metastaticos;III;>=60;1;1;4
+2007;centroeste;juncao retossigmoide;metastaticos;IV;<60;0;0;1
+2007;centroeste;juncao retossigmoide;metastaticos;IV;>=60;0;1;2
+2007;centroeste;reto;nao metastaticos;I;<60;0;0;1
+2007;centroeste;reto;nao metastaticos;I;>=60;0;0;1
+2007;centroeste;reto;nao metastaticos;II;<60;1;2;9
+2007;centroeste;reto;nao metastaticos;II;>=60;0;0;4
+2007;centroeste;reto;nao metastaticos;III;<60;0;0;1
+2007;centroeste;reto;nao metastaticos;III;>=60;3;4;6
+2007;centroeste;reto;metastaticos;IV;<60;0;0;2
+2007;centroeste;reto;metastaticos;IV;>=60;0;0;2
+2007;nordeste;colon;nao metastaticos;I;<60;0;1;11
+2007;nordeste;colon;nao metastaticos;I;>=60;1;1;7
+2007;nordeste;colon;nao metastaticos;II;<60;1;4;37
+2007;nordeste;colon;nao metastaticos;II;>=60;1;8;40
+2007;nordeste;colon;nao metastaticos;III;<60;1;6;27
+2007;nordeste;colon;nao metastaticos;III;>=60;0;3;26
+2007;nordeste;colon;metastaticos;IV;<60;3;7;26
+2007;nordeste;colon;metastaticos;IV;>=60;5;12;27
+2007;nordeste;juncao retossigmoide;nao metastaticos;I;>=60;0;0;4
+2007;nordeste;juncao retossigmoide;nao metastaticos;II;<60;0;1;10
+2007;nordeste;juncao retossigmoide;nao metastaticos;II;>=60;0;1;5
+2007;nordeste;juncao retossigmoide;nao metastaticos;III;<60;0;1;5
+2007;nordeste;juncao retossigmoide;nao metastaticos;III;>=60;1;1;5
+2007;nordeste;juncao retossigmoide;metastaticos;IV;<60;0;2;3
+2007;nordeste;juncao retossigmoide;metastaticos;IV;>=60;1;2;7
+2007;nordeste;reto;nao metastaticos;I;<60;0;0;15
+2007;nordeste;reto;nao metastaticos;I;>=60;2;2;13
+2007;nordeste;reto;nao metastaticos;II;<60;1;8;41
+2007;nordeste;reto;nao metastaticos;II;>=60;3;6;43
+2007;nordeste;reto;nao metastaticos;III;<60;6;11;46
+2007;nordeste;reto;nao metastaticos;III;>=60;4;8;34
+2007;nordeste;reto;metastaticos;IV;<60;3;10;30
+2007;nordeste;reto;metastaticos;IV;>=60;2;9;25
+2007;norte;colon;nao metastaticos;I;<60;0;0;1
+2007;norte;colon;nao metastaticos;I;>=60;1;1;2
+2007;norte;colon;nao metastaticos;II;<60;0;0;6
+2007;norte;colon;nao metastaticos;II;>=60;1;1;5
+2007;norte;colon;nao metastaticos;III;<60;0;2;6
+2007;norte;colon;nao metastaticos;III;>=60;1;4;10
+2007;norte;colon;metastaticos;IV;<60;0;1;3
+2007;norte;colon;metastaticos;IV;>=60;0;2;4
+2007;norte;juncao retossigmoide;nao metastaticos;I;<60;0;0;1
+2007;norte;juncao retossigmoide;nao metastaticos;II;<60;0;1;2
+2007;norte;juncao retossigmoide;nao metastaticos;II;>=60;0;0;1
+2007;norte;juncao retossigmoide;nao metastaticos;III;<60;0;0;1
+2007;norte;juncao retossigmoide;metastaticos;IV;>=60;0;0;1
+2007;norte;reto;nao metastaticos;I;<60;0;1;1
+2007;norte;reto;nao metastaticos;I;>=60;0;0;3
+2007;norte;reto;nao metastaticos;II;<60;0;3;8
+2007;norte;reto;nao metastaticos;II;>=60;2;2;7
+2007;norte;reto;nao metastaticos;III;<60;0;1;4
+2007;norte;reto;nao metastaticos;III;>=60;1;3;8
+2007;norte;reto;metastaticos;IV;<60;0;3;6
+2007;norte;reto;metastaticos;IV;>=60;1;1;3
+2007;sudeste;colon;nao metastaticos;I;<60;5;13;68
+2007;sudeste;colon;nao metastaticos;I;>=60;15;41;102
+2007;sudeste;colon;nao metastaticos;II;<60;10;52;236
+2007;sudeste;colon;nao metastaticos;II;>=60;43;140;321
+2007;sudeste;colon;nao metastaticos;III;<60;22;90;262
+2007;sudeste;colon;nao metastaticos;III;>=60;53;153;304
+2007;sudeste;colon;metastaticos;IV;<60;83;184;240
+2007;sudeste;colon;metastaticos;IV;>=60;133;220;262
+2007;sudeste;juncao retossigmoide;nao metastaticos;I;<60;0;0;16
+2007;sudeste;juncao retossigmoide;nao metastaticos;I;>=60;0;5;21
+2007;sudeste;juncao retossigmoide;nao metastaticos;II;<60;2;6;31
+2007;sudeste;juncao retossigmoide;nao metastaticos;II;>=60;5;13;34
+2007;sudeste;juncao retossigmoide;nao metastaticos;III;<60;2;9;28
+2007;sudeste;juncao retossigmoide;nao metastaticos;III;>=60;4;12;34
+2007;sudeste;juncao retossigmoide;metastaticos;IV;<60;6;20;28
+2007;sudeste;juncao retossigmoide;metastaticos;IV;>=60;6;15;24
+2007;sudeste;reto;nao metastaticos;I;<60;5;19;82
+2007;sudeste;reto;nao metastaticos;I;>=60;10;52;126
+2007;sudeste;reto;nao metastaticos;II;<60;10;66;197
+2007;sudeste;reto;nao metastaticos;II;>=60;43;131;268
+2007;sudeste;reto;nao metastaticos;III;<60;23;98;220
+2007;sudeste;reto;nao metastaticos;III;>=60;34;150;256
+2007;sudeste;reto;metastaticos;IV;<60;70;140;163
+2007;sudeste;reto;metastaticos;IV;>=60;71;111;146
+2007;sul;colon;nao metastaticos;I;<60;0;0;9
+2007;sul;colon;nao metastaticos;I;>=60;1;1;11
+2007;sul;colon;nao metastaticos;II;<60;1;7;82
+2007;sul;colon;nao metastaticos;II;>=60;5;6;74
+2007;sul;colon;nao metastaticos;III;<60;5;7;91
+2007;sul;colon;nao metastaticos;III;>=60;13;22;101
+2007;sul;colon;metastaticos;IV;<60;10;30;92
+2007;sul;colon;metastaticos;IV;>=60;24;39;114
+2007;sul;juncao retossigmoide;nao metastaticos;I;<60;0;0;6
+2007;sul;juncao retossigmoide;nao metastaticos;I;>=60;0;1;13
+2007;sul;juncao retossigmoide;nao metastaticos;II;<60;0;1;17
+2007;sul;juncao retossigmoide;nao metastaticos;II;>=60;0;0;13
+2007;sul;juncao retossigmoide;nao metastaticos;III;<60;1;3;19
+2007;sul;juncao retossigmoide;nao metastaticos;III;>=60;0;2;27
+2007;sul;juncao retossigmoide;metastaticos;IV;<60;2;4;22
+2007;sul;juncao retossigmoide;metastaticos;IV;>=60;0;6;17
+2007;sul;reto;nao metastaticos;I;<60;0;0;16
+2007;sul;reto;nao metastaticos;I;>=60;2;2;22
+2007;sul;reto;nao metastaticos;II;<60;2;4;44
+2007;sul;reto;nao metastaticos;II;>=60;6;12;81
+2007;sul;reto;nao metastaticos;III;<60;6;16;80
+2007;sul;reto;nao metastaticos;III;>=60;5;12;99
+2007;sul;reto;metastaticos;IV;<60;12;24;64
+2007;sul;reto;metastaticos;IV;>=60;12;19;72
+2008;centroeste;colon;nao metastaticos;I;<60;0;0;3
+2008;centroeste;colon;nao metastaticos;I;>=60;0;0;2
+2008;centroeste;colon;nao metastaticos;II;<60;3;3;15
+2008;centroeste;colon;nao metastaticos;II;>=60;0;1;8
+2008;centroeste;colon;nao metastaticos;III;<60;1;2;14
+2008;centroeste;colon;nao metastaticos;III;>=60;2;4;9
+2008;centroeste;colon;metastaticos;IV;<60;8;10;17
+2008;centroeste;colon;metastaticos;IV;>=60;3;5;11
+2008;centroeste;juncao retossigmoide;nao metastaticos;I;<60;0;0;1
+2008;centroeste;juncao retossigmoide;nao metastaticos;II;<60;0;1;3
+2008;centroeste;juncao retossigmoide;nao metastaticos;III;<60;0;0;2
+2008;centroeste;juncao retossigmoide;nao metastaticos;III;>=60;0;0;2
+2008;centroeste;juncao retossigmoide;metastaticos;IV;<60;0;0;3
+2008;centroeste;juncao retossigmoide;metastaticos;IV;>=60;0;0;1
+2008;centroeste;reto;nao metastaticos;I;<60;0;0;1
+2008;centroeste;reto;nao metastaticos;II;<60;0;1;6
+2008;centroeste;reto;nao metastaticos;II;>=60;0;0;4
+2008;centroeste;reto;nao metastaticos;III;<60;2;3;7
+2008;centroeste;reto;nao metastaticos;III;>=60;1;2;9
+2008;centroeste;reto;metastaticos;IV;<60;2;3;8
+2008;centroeste;reto;metastaticos;IV;>=60;1;1;7
+2008;nordeste;colon;nao metastaticos;I;<60;1;1;11
+2008;nordeste;colon;nao metastaticos;I;>=60;0;0;14
+2008;nordeste;colon;nao metastaticos;II;<60;3;5;45
+2008;nordeste;colon;nao metastaticos;II;>=60;0;3;42
+2008;nordeste;colon;nao metastaticos;III;<60;0;3;43
+2008;nordeste;colon;nao metastaticos;III;>=60;2;5;36
+2008;nordeste;colon;metastaticos;IV;<60;13;19;54
+2008;nordeste;colon;metastaticos;IV;>=60;5;12;39
+2008;nordeste;juncao retossigmoide;nao metastaticos;I;<60;0;0;1
+2008;nordeste;juncao retossigmoide;nao metastaticos;I;>=60;0;0;2
+2008;nordeste;juncao retossigmoide;nao metastaticos;II;<60;0;0;5
+2008;nordeste;juncao retossigmoide;nao metastaticos;II;>=60;0;1;8
+2008;nordeste;juncao retossigmoide;nao metastaticos;III;<60;0;3;12
+2008;nordeste;juncao retossigmoide;nao metastaticos;III;>=60;0;2;11
+2008;nordeste;juncao retossigmoide;metastaticos;IV;<60;0;2;3
+2008;nordeste;juncao retossigmoide;metastaticos;IV;>=60;2;2;5
+2008;nordeste;reto;nao metastaticos;I;<60;0;0;17
+2008;nordeste;reto;nao metastaticos;I;>=60;1;2;15
+2008;nordeste;reto;nao metastaticos;II;<60;8;12;52
+2008;nordeste;reto;nao metastaticos;II;>=60;8;15;52
+2008;nordeste;reto;nao metastaticos;III;<60;3;10;58
+2008;nordeste;reto;nao metastaticos;III;>=60;5;10;51
+2008;nordeste;reto;metastaticos;IV;<60;6;13;42
+2008;nordeste;reto;metastaticos;IV;>=60;7;11;28
+2008;norte;colon;nao metastaticos;I;<60;0;0;1
+2008;norte;colon;nao metastaticos;I;>=60;0;0;3
+2008;norte;colon;nao metastaticos;II;<60;0;1;6
+2008;norte;colon;nao metastaticos;II;>=60;1;1;4
+2008;norte;colon;nao metastaticos;III;<60;2;3;7
+2008;norte;colon;nao metastaticos;III;>=60;0;2;5
+2008;norte;colon;metastaticos;IV;<60;1;1;5
+2008;norte;colon;metastaticos;IV;>=60;3;3;6
+2008;norte;juncao retossigmoide;nao metastaticos;II;<60;0;0;1
+2008;norte;juncao retossigmoide;nao metastaticos;II;>=60;1;1;2
+2008;norte;juncao retossigmoide;nao metastaticos;III;<60;1;1;3
+2008;norte;juncao retossigmoide;nao metastaticos;III;>=60;0;1;2
+2008;norte;juncao retossigmoide;metastaticos;IV;<60;1;2;2
+2008;norte;reto;nao metastaticos;I;>=60;0;0;2
+2008;norte;reto;nao metastaticos;II;<60;0;1;10
+2008;norte;reto;nao metastaticos;II;>=60;2;3;12
+2008;norte;reto;nao metastaticos;III;<60;1;4;12
+2008;norte;reto;nao metastaticos;III;>=60;0;1;13
+2008;norte;reto;metastaticos;IV;<60;3;6;11
+2008;norte;reto;metastaticos;IV;>=60;1;2;3
+2008;sudeste;colon;nao metastaticos;I;<60;5;13;83
+2008;sudeste;colon;nao metastaticos;I;>=60;13;37;138
+2008;sudeste;colon;nao metastaticos;II;<60;11;63;254
+2008;sudeste;colon;nao metastaticos;II;>=60;56;162;380
+2008;sudeste;colon;nao metastaticos;III;<60;24;94;269
+2008;sudeste;colon;nao metastaticos;III;>=60;61;173;327
+2008;sudeste;colon;metastaticos;IV;<60;107;207;272
+2008;sudeste;colon;metastaticos;IV;>=60;136;235;280
+2008;sudeste;juncao retossigmoide;nao metastaticos;I;<60;0;0;11
+2008;sudeste;juncao retossigmoide;nao metastaticos;I;>=60;1;6;14
+2008;sudeste;juncao retossigmoide;nao metastaticos;II;<60;1;4;29
+2008;sudeste;juncao retossigmoide;nao metastaticos;II;>=60;2;18;43
+2008;sudeste;juncao retossigmoide;nao metastaticos;III;<60;4;10;34
+2008;sudeste;juncao retossigmoide;nao metastaticos;III;>=60;7;18;46
+2008;sudeste;juncao retossigmoide;metastaticos;IV;<60;11;24;33
+2008;sudeste;juncao retossigmoide;metastaticos;IV;>=60;9;18;29
+2008;sudeste;reto;nao metastaticos;I;<60;8;36;118
+2008;sudeste;reto;nao metastaticos;I;>=60;18;75;160
+2008;sudeste;reto;nao metastaticos;II;<60;13;68;201
+2008;sudeste;reto;nao metastaticos;II;>=60;33;118;268
+2008;sudeste;reto;nao metastaticos;III;<60;14;89;212
+2008;sudeste;reto;nao metastaticos;III;>=60;48;155;277
+2008;sudeste;reto;metastaticos;IV;<60;82;161;204
+2008;sudeste;reto;metastaticos;IV;>=60;91;152;179
+2008;sul;colon;nao metastaticos;I;<60;0;0;10
+2008;sul;colon;nao metastaticos;I;>=60;3;4;23
+2008;sul;colon;nao metastaticos;II;<60;2;3;77
+2008;sul;colon;nao metastaticos;II;>=60;13;16;116
+2008;sul;colon;nao metastaticos;III;<60;4;10;102
+2008;sul;colon;nao metastaticos;III;>=60;6;11;103
+2008;sul;colon;metastaticos;IV;<60;16;32;84
+2008;sul;colon;metastaticos;IV;>=60;15;29;100
+2008;sul;juncao retossigmoide;nao metastaticos;I;<60;0;0;5
+2008;sul;juncao retossigmoide;nao metastaticos;I;>=60;1;1;7
+2008;sul;juncao retossigmoide;nao metastaticos;II;<60;0;1;16
+2008;sul;juncao retossigmoide;nao metastaticos;II;>=60;2;2;20
+2008;sul;juncao retossigmoide;nao metastaticos;III;<60;0;3;21
+2008;sul;juncao retossigmoide;nao metastaticos;III;>=60;1;7;28
+2008;sul;juncao retossigmoide;metastaticos;IV;<60;2;2;17
+2008;sul;juncao retossigmoide;metastaticos;IV;>=60;2;4;22
+2008;sul;reto;nao metastaticos;I;<60;0;1;23
+2008;sul;reto;nao metastaticos;I;>=60;2;3;33
+2008;sul;reto;nao metastaticos;II;<60;2;5;59
+2008;sul;reto;nao metastaticos;II;>=60;3;12;76
+2008;sul;reto;nao metastaticos;III;<60;5;10;75
+2008;sul;reto;nao metastaticos;III;>=60;18;25;115
+2008;sul;reto;metastaticos;IV;<60;7;15;47
+2008;sul;reto;metastaticos;IV;>=60;7;11;64
+2009;centroeste;colon;nao metastaticos;I;<60;0;0;4
+2009;centroeste;colon;nao metastaticos;II;<60;0;0;12
+2009;centroeste;colon;nao metastaticos;II;>=60;0;0;8
+2009;centroeste;colon;nao metastaticos;III;<60;0;0;21
+2009;centroeste;colon;nao metastaticos;III;>=60;0;1;5
+2009;centroeste;colon;metastaticos;IV;<60;0;2;11
+2009;centroeste;colon;metastaticos;IV;>=60;3;5;13
+2009;centroeste;juncao retossigmoide;nao metastaticos;II;<60;0;0;1
+2009;centroeste;juncao retossigmoide;nao metastaticos;II;>=60;0;0;2
+2009;centroeste;juncao retossigmoide;nao metastaticos;III;<60;0;0;1
+2009;centroeste;juncao retossigmoide;metastaticos;IV;<60;1;1;2
+2009;centroeste;juncao retossigmoide;metastaticos;IV;>=60;1;2;4
+2009;centroeste;reto;nao metastaticos;I;>=60;0;0;1
+2009;centroeste;reto;nao metastaticos;II;<60;0;1;5
+2009;centroeste;reto;nao metastaticos;II;>=60;0;2;13
+2009;centroeste;reto;nao metastaticos;III;<60;1;1;11
+2009;centroeste;reto;nao metastaticos;III;>=60;1;2;8
+2009;centroeste;reto;metastaticos;IV;<60;1;2;5
+2009;centroeste;reto;metastaticos;IV;>=60;1;1;4
+2009;nordeste;colon;nao metastaticos;I;<60;0;1;13
+2009;nordeste;colon;nao metastaticos;I;>=60;1;4;15
+2009;nordeste;colon;nao metastaticos;II;<60;0;5;59
+2009;nordeste;colon;nao metastaticos;II;>=60;5;7;62
+2009;nordeste;colon;nao metastaticos;III;<60;4;7;79
+2009;nordeste;colon;nao metastaticos;III;>=60;3;6;62
+2009;nordeste;colon;metastaticos;IV;<60;11;24;64
+2009;nordeste;colon;metastaticos;IV;>=60;4;8;43
+2009;nordeste;juncao retossigmoide;nao metastaticos;I;<60;0;0;2
+2009;nordeste;juncao retossigmoide;nao metastaticos;I;>=60;0;0;2
+2009;nordeste;juncao retossigmoide;nao metastaticos;II;<60;0;0;2
+2009;nordeste;juncao retossigmoide;nao metastaticos;II;>=60;0;0;7
+2009;nordeste;juncao retossigmoide;nao metastaticos;III;<60;0;1;11
+2009;nordeste;juncao retossigmoide;nao metastaticos;III;>=60;0;2;10
+2009;nordeste;juncao retossigmoide;metastaticos;IV;<60;1;1;5
+2009;nordeste;juncao retossigmoide;metastaticos;IV;>=60;1;2;9
+2009;nordeste;reto;nao metastaticos;I;<60;0;1;23
+2009;nordeste;reto;nao metastaticos;I;>=60;0;1;22
+2009;nordeste;reto;nao metastaticos;II;<60;1;5;47
+2009;nordeste;reto;nao metastaticos;II;>=60;3;7;64
+2009;nordeste;reto;nao metastaticos;III;<60;8;16;75
+2009;nordeste;reto;nao metastaticos;III;>=60;12;15;68
+2009;nordeste;reto;metastaticos;IV;<60;9;15;34
+2009;nordeste;reto;metastaticos;IV;>=60;6;13;38
+2009;norte;colon;nao metastaticos;I;<60;0;0;4
+2009;norte;colon;nao metastaticos;I;>=60;0;0;1
+2009;norte;colon;nao metastaticos;II;<60;0;0;3
+2009;norte;colon;nao metastaticos;II;>=60;1;1;5
+2009;norte;colon;nao metastaticos;III;<60;0;0;17
+2009;norte;colon;nao metastaticos;III;>=60;1;3;13
+2009;norte;colon;metastaticos;IV;<60;1;3;5
+2009;norte;colon;metastaticos;IV;>=60;2;3;6
+2009;norte;juncao retossigmoide;nao metastaticos;I;>=60;0;0;2
+2009;norte;juncao retossigmoide;nao metastaticos;II;<60;0;0;1
+2009;norte;juncao retossigmoide;nao metastaticos;II;>=60;0;0;1
+2009;norte;juncao retossigmoide;nao metastaticos;III;<60;0;0;3
+2009;norte;juncao retossigmoide;nao metastaticos;III;>=60;0;1;3
+2009;norte;juncao retossigmoide;metastaticos;IV;<60;0;2;3
+2009;norte;juncao retossigmoide;metastaticos;IV;>=60;0;1;1
+2009;norte;reto;nao metastaticos;I;<60;0;0;1
+2009;norte;reto;nao metastaticos;I;>=60;0;0;2
+2009;norte;reto;nao metastaticos;II;<60;0;0;9
+2009;norte;reto;nao metastaticos;II;>=60;2;3;8
+2009;norte;reto;nao metastaticos;III;<60;2;8;16
+2009;norte;reto;nao metastaticos;III;>=60;2;7;14
+2009;norte;reto;metastaticos;IV;<60;3;5;10
+2009;norte;reto;metastaticos;IV;>=60;3;5;13
+2009;sudeste;colon;nao metastaticos;I;<60;3;12;74
+2009;sudeste;colon;nao metastaticos;I;>=60;15;48;149
+2009;sudeste;colon;nao metastaticos;II;<60;15;57;262
+2009;sudeste;colon;nao metastaticos;II;>=60;52;146;381
+2009;sudeste;colon;nao metastaticos;III;<60;27;131;314
+2009;sudeste;colon;nao metastaticos;III;>=60;67;196;375
+2009;sudeste;colon;metastaticos;IV;<60;117;220;295
+2009;sudeste;colon;metastaticos;IV;>=60;181;286;340
+2009;sudeste;juncao retossigmoide;nao metastaticos;I;<60;2;2;13
+2009;sudeste;juncao retossigmoide;nao metastaticos;I;>=60;2;4;19
+2009;sudeste;juncao retossigmoide;nao metastaticos;II;<60;2;3;37
+2009;sudeste;juncao retossigmoide;nao metastaticos;II;>=60;3;20;50
+2009;sudeste;juncao retossigmoide;nao metastaticos;III;<60;1;7;37
+2009;sudeste;juncao retossigmoide;nao metastaticos;III;>=60;9;21;54
+2009;sudeste;juncao retossigmoide;metastaticos;IV;<60;7;19;33
+2009;sudeste;juncao retossigmoide;metastaticos;IV;>=60;14;30;36
+2009;sudeste;reto;nao metastaticos;I;<60;8;23;103
+2009;sudeste;reto;nao metastaticos;I;>=60;11;55;159
+2009;sudeste;reto;nao metastaticos;II;<60;17;86;254
+2009;sudeste;reto;nao metastaticos;II;>=60;48;154;325
+2009;sudeste;reto;nao metastaticos;III;<60;14;101;243
+2009;sudeste;reto;nao metastaticos;III;>=60;52;160;284
+2009;sudeste;reto;metastaticos;IV;<60;86;176;226
+2009;sudeste;reto;metastaticos;IV;>=60;90;185;212
+2009;sul;colon;nao metastaticos;I;<60;0;1;21
+2009;sul;colon;nao metastaticos;I;>=60;0;1;19
+2009;sul;colon;nao metastaticos;II;<60;0;6;75
+2009;sul;colon;nao metastaticos;II;>=60;4;7;96
+2009;sul;colon;nao metastaticos;III;<60;7;12;126
+2009;sul;colon;nao metastaticos;III;>=60;4;11;108
+2009;sul;colon;metastaticos;IV;<60;22;32;94
+2009;sul;colon;metastaticos;IV;>=60;20;33;106
+2009;sul;juncao retossigmoide;nao metastaticos;I;<60;0;0;3
+2009;sul;juncao retossigmoide;nao metastaticos;I;>=60;1;1;2
+2009;sul;juncao retossigmoide;nao metastaticos;II;<60;1;2;13
+2009;sul;juncao retossigmoide;nao metastaticos;II;>=60;1;1;10
+2009;sul;juncao retossigmoide;nao metastaticos;III;<60;1;1;24
+2009;sul;juncao retossigmoide;nao metastaticos;III;>=60;1;2;19
+2009;sul;juncao retossigmoide;metastaticos;IV;<60;5;8;21
+2009;sul;juncao retossigmoide;metastaticos;IV;>=60;3;6;17
+2009;sul;reto;nao metastaticos;I;<60;0;1;16
+2009;sul;reto;nao metastaticos;I;>=60;1;1;27
+2009;sul;reto;nao metastaticos;II;<60;2;6;84
+2009;sul;reto;nao metastaticos;II;>=60;5;6;83
+2009;sul;reto;nao metastaticos;III;<60;7;12;103
+2009;sul;reto;nao metastaticos;III;>=60;10;15;112
+2009;sul;reto;metastaticos;IV;<60;1;8;44
+2009;sul;reto;metastaticos;IV;>=60;3;10;56
+2010;centroeste;colon;nao metastaticos;I;>=60;1;1;3
+2010;centroeste;colon;nao metastaticos;II;<60;1;2;13
+2010;centroeste;colon;nao metastaticos;II;>=60;0;1;21
+2010;centroeste;colon;nao metastaticos;III;<60;0;2;25
+2010;centroeste;colon;nao metastaticos;III;>=60;0;2;17
+2010;centroeste;colon;metastaticos;IV;<60;6;10;19
+2010;centroeste;colon;metastaticos;IV;>=60;1;5;17
+2010;centroeste;juncao retossigmoide;nao metastaticos;II;<60;0;0;3
+2010;centroeste;juncao retossigmoide;nao metastaticos;II;>=60;0;0;2
+2010;centroeste;juncao retossigmoide;nao metastaticos;III;<60;1;1;4
+2010;centroeste;juncao retossigmoide;nao metastaticos;III;>=60;0;1;4
+2010;centroeste;juncao retossigmoide;metastaticos;IV;<60;0;1;2
+2010;centroeste;juncao retossigmoide;metastaticos;IV;>=60;1;1;4
+2010;centroeste;reto;nao metastaticos;I;<60;1;1;2
+2010;centroeste;reto;nao metastaticos;I;>=60;0;0;1
+2010;centroeste;reto;nao metastaticos;II;<60;0;0;9
+2010;centroeste;reto;nao metastaticos;II;>=60;0;0;8
+2010;centroeste;reto;nao metastaticos;III;<60;1;2;17
+2010;centroeste;reto;nao metastaticos;III;>=60;1;2;13
+2010;centroeste;reto;metastaticos;IV;<60;1;1;4
+2010;centroeste;reto;metastaticos;IV;>=60;1;2;6
+2010;nordeste;colon;nao metastaticos;I;<60;0;0;11
+2010;nordeste;colon;nao metastaticos;I;>=60;0;0;15
+2010;nordeste;colon;nao metastaticos;II;<60;0;2;68
+2010;nordeste;colon;nao metastaticos;II;>=60;5;13;77
+2010;nordeste;colon;nao metastaticos;III;<60;6;14;60
+2010;nordeste;colon;nao metastaticos;III;>=60;10;15;76
+2010;nordeste;colon;metastaticos;IV;<60;10;30;77
+2010;nordeste;colon;metastaticos;IV;>=60;11;15;49
+2010;nordeste;juncao retossigmoide;nao metastaticos;I;<60;0;0;3
+2010;nordeste;juncao retossigmoide;nao metastaticos;I;>=60;0;2;3
+2010;nordeste;juncao retossigmoide;nao metastaticos;II;<60;1;3;10
+2010;nordeste;juncao retossigmoide;nao metastaticos;II;>=60;0;0;16
+2010;nordeste;juncao retossigmoide;nao metastaticos;III;<60;1;3;13
+2010;nordeste;juncao retossigmoide;nao metastaticos;III;>=60;2;4;13
+2010;nordeste;juncao retossigmoide;metastaticos;IV;<60;3;5;11
+2010;nordeste;juncao retossigmoide;metastaticos;IV;>=60;2;5;10
+2010;nordeste;reto;nao metastaticos;I;<60;1;1;9
+2010;nordeste;reto;nao metastaticos;I;>=60;0;2;21
+2010;nordeste;reto;nao metastaticos;II;<60;4;8;47
+2010;nordeste;reto;nao metastaticos;II;>=60;5;9;63
+2010;nordeste;reto;nao metastaticos;III;<60;4;19;84
+2010;nordeste;reto;nao metastaticos;III;>=60;11;21;86
+2010;nordeste;reto;metastaticos;IV;<60;13;22;36
+2010;nordeste;reto;metastaticos;IV;>=60;12;17;39
+2010;norte;colon;nao metastaticos;I;<60;0;0;2
+2010;norte;colon;nao metastaticos;I;>=60;0;0;2
+2010;norte;colon;nao metastaticos;II;<60;0;0;6
+2010;norte;colon;nao metastaticos;II;>=60;1;1;7
+2010;norte;colon;nao metastaticos;III;<60;1;2;12
+2010;norte;colon;nao metastaticos;III;>=60;1;2;12
+2010;norte;colon;metastaticos;IV;<60;3;5;11
+2010;norte;colon;metastaticos;IV;>=60;2;4;10
+2010;norte;juncao retossigmoide;nao metastaticos;I;>=60;0;0;3
+2010;norte;juncao retossigmoide;nao metastaticos;II;<60;0;1;2
+2010;norte;juncao retossigmoide;nao metastaticos;II;>=60;0;0;2
+2010;norte;juncao retossigmoide;nao metastaticos;III;<60;0;1;3
+2010;norte;juncao retossigmoide;nao metastaticos;III;>=60;0;1;1
+2010;norte;juncao retossigmoide;metastaticos;IV;<60;0;1;1
+2010;norte;juncao retossigmoide;metastaticos;IV;>=60;0;1;2
+2010;norte;reto;nao metastaticos;I;<60;0;0;1
+2010;norte;reto;nao metastaticos;I;>=60;0;0;2
+2010;norte;reto;nao metastaticos;II;<60;1;3;10
+2010;norte;reto;nao metastaticos;II;>=60;0;2;6
+2010;norte;reto;nao metastaticos;III;<60;0;2;9
+2010;norte;reto;nao metastaticos;III;>=60;2;4;9
+2010;norte;reto;metastaticos;IV;<60;1;4;12
+2010;norte;reto;metastaticos;IV;>=60;3;6;9
+2010;sudeste;colon;nao metastaticos;I;<60;5;18;115
+2010;sudeste;colon;nao metastaticos;I;>=60;16;55;160
+2010;sudeste;colon;nao metastaticos;II;<60;17;56;285
+2010;sudeste;colon;nao metastaticos;II;>=60;66;194;468
+2010;sudeste;colon;nao metastaticos;III;<60;34;128;326
+2010;sudeste;colon;nao metastaticos;III;>=60;77;223;446
+2010;sudeste;colon;metastaticos;IV;<60;124;251;317
+2010;sudeste;colon;metastaticos;IV;>=60;169;286;351
+2010;sudeste;juncao retossigmoide;nao metastaticos;I;<60;0;1;23
+2010;sudeste;juncao retossigmoide;nao metastaticos;I;>=60;5;9;36
+2010;sudeste;juncao retossigmoide;nao metastaticos;II;<60;2;10;52
+2010;sudeste;juncao retossigmoide;nao metastaticos;II;>=60;7;19;58
+2010;sudeste;juncao retossigmoide;nao metastaticos;III;<60;3;13;43
+2010;sudeste;juncao retossigmoide;nao metastaticos;III;>=60;9;25;62
+2010;sudeste;juncao retossigmoide;metastaticos;IV;<60;10;29;32
+2010;sudeste;juncao retossigmoide;metastaticos;IV;>=60;14;29;36
+2010;sudeste;reto;nao metastaticos;I;<60;6;30;119
+2010;sudeste;reto;nao metastaticos;I;>=60;13;62;172
+2010;sudeste;reto;nao metastaticos;II;<60;27;95;265
+2010;sudeste;reto;nao metastaticos;II;>=60;68;204;385
+2010;sudeste;reto;nao metastaticos;III;<60;19;108;277
+2010;sudeste;reto;nao metastaticos;III;>=60;50;155;299
+2010;sudeste;reto;metastaticos;IV;<60;85;164;199
+2010;sudeste;reto;metastaticos;IV;>=60;101;193;233
+2010;sul;colon;nao metastaticos;I;<60;0;0;24
+2010;sul;colon;nao metastaticos;I;>=60;1;3;38
+2010;sul;colon;nao metastaticos;II;<60;1;5;113
+2010;sul;colon;nao metastaticos;II;>=60;7;15;133
+2010;sul;colon;nao metastaticos;III;<60;2;12;114
+2010;sul;colon;nao metastaticos;III;>=60;13;30;177
+2010;sul;colon;metastaticos;IV;<60;34;56;141
+2010;sul;colon;metastaticos;IV;>=60;28;53;170
+2010;sul;juncao retossigmoide;nao metastaticos;I;<60;1;1;12
+2010;sul;juncao retossigmoide;nao metastaticos;I;>=60;0;0;5
+2010;sul;juncao retossigmoide;nao metastaticos;II;<60;1;3;15
+2010;sul;juncao retossigmoide;nao metastaticos;II;>=60;0;0;14
+2010;sul;juncao retossigmoide;nao metastaticos;III;<60;4;6;31
+2010;sul;juncao retossigmoide;nao metastaticos;III;>=60;5;11;31
+2010;sul;juncao retossigmoide;metastaticos;IV;<60;2;6;20
+2010;sul;juncao retossigmoide;metastaticos;IV;>=60;4;9;20
+2010;sul;reto;nao metastaticos;I;<60;0;2;29
+2010;sul;reto;nao metastaticos;I;>=60;5;5;37
+2010;sul;reto;nao metastaticos;II;<60;3;11;83
+2010;sul;reto;nao metastaticos;II;>=60;8;13;96
+2010;sul;reto;nao metastaticos;III;<60;10;19;93
+2010;sul;reto;nao metastaticos;III;>=60;22;32;145
+2010;sul;reto;metastaticos;IV;<60;17;37;85
+2010;sul;reto;metastaticos;IV;>=60;22;36;70
+2011;centroeste;colon;nao metastaticos;I;<60;0;0;2
+2011;centroeste;colon;nao metastaticos;I;>=60;0;0;2
+2011;centroeste;colon;nao metastaticos;II;<60;0;0;12
+2011;centroeste;colon;nao metastaticos;II;>=60;1;3;19
+2011;centroeste;colon;nao metastaticos;III;<60;1;1;12
+2011;centroeste;colon;nao metastaticos;III;>=60;0;2;10
+2011;centroeste;colon;metastaticos;IV;<60;2;4;10
+2011;centroeste;colon;metastaticos;IV;>=60;6;8;11
+2011;centroeste;juncao retossigmoide;nao metastaticos;I;<60;0;0;1
+2011;centroeste;juncao retossigmoide;nao metastaticos;I;>=60;0;0;1
+2011;centroeste;juncao retossigmoide;nao metastaticos;II;>=60;0;0;3
+2011;centroeste;juncao retossigmoide;nao metastaticos;III;>=60;0;0;2
+2011;centroeste;juncao retossigmoide;metastaticos;IV;<60;1;3;3
+2011;centroeste;reto;nao metastaticos;I;<60;1;1;1
+2011;centroeste;reto;nao metastaticos;I;>=60;0;0;3
+2011;centroeste;reto;nao metastaticos;II;<60;0;0;6
+2011;centroeste;reto;nao metastaticos;II;>=60;0;0;6
+2011;centroeste;reto;nao metastaticos;III;<60;0;0;6
+2011;centroeste;reto;nao metastaticos;III;>=60;2;3;17
+2011;centroeste;reto;metastaticos;IV;<60;2;2;5
+2011;centroeste;reto;metastaticos;IV;>=60;2;2;6
+2011;nordeste;colon;nao metastaticos;I;<60;0;2;13
+2011;nordeste;colon;nao metastaticos;I;>=60;0;0;12
+2011;nordeste;colon;nao metastaticos;II;<60;2;5;71
+2011;nordeste;colon;nao metastaticos;II;>=60;5;6;83
+2011;nordeste;colon;nao metastaticos;III;<60;6;11;84
+2011;nordeste;colon;nao metastaticos;III;>=60;5;11;94
+2011;nordeste;colon;metastaticos;IV;<60;11;22;77
+2011;nordeste;colon;metastaticos;IV;>=60;13;19;66
+2011;nordeste;juncao retossigmoide;nao metastaticos;I;<60;0;0;6
+2011;nordeste;juncao retossigmoide;nao metastaticos;I;>=60;0;0;7
+2011;nordeste;juncao retossigmoide;nao metastaticos;II;<60;0;0;9
+2011;nordeste;juncao retossigmoide;nao metastaticos;II;>=60;2;2;10
+2011;nordeste;juncao retossigmoide;nao metastaticos;III;<60;0;1;10
+2011;nordeste;juncao retossigmoide;nao metastaticos;III;>=60;1;2;12
+2011;nordeste;juncao retossigmoide;metastaticos;IV;<60;3;10;15
+2011;nordeste;juncao retossigmoide;metastaticos;IV;>=60;3;5;9
+2011;nordeste;reto;nao metastaticos;I;<60;0;2;22
+2011;nordeste;reto;nao metastaticos;I;>=60;0;0;24
+2011;nordeste;reto;nao metastaticos;II;<60;3;8;71
+2011;nordeste;reto;nao metastaticos;II;>=60;11;22;83
+2011;nordeste;reto;nao metastaticos;III;<60;6;9;68
+2011;nordeste;reto;nao metastaticos;III;>=60;13;25;85
+2011;nordeste;reto;metastaticos;IV;<60;13;19;58
+2011;nordeste;reto;metastaticos;IV;>=60;18;31;67
+2011;norte;colon;nao metastaticos;I;<60;0;0;2
+2011;norte;colon;nao metastaticos;I;>=60;0;0;1
+2011;norte;colon;nao metastaticos;II;<60;1;2;11
+2011;norte;colon;nao metastaticos;II;>=60;0;2;6
+2011;norte;colon;nao metastaticos;III;<60;0;2;21
+2011;norte;colon;nao metastaticos;III;>=60;1;3;8
+2011;norte;colon;metastaticos;IV;<60;4;5;9
+2011;norte;colon;metastaticos;IV;>=60;5;5;8
+2011;norte;juncao retossigmoide;nao metastaticos;II;<60;1;1;2
+2011;norte;juncao retossigmoide;nao metastaticos;II;>=60;0;0;1
+2011;norte;juncao retossigmoide;nao metastaticos;III;<60;0;0;2
+2011;norte;juncao retossigmoide;nao metastaticos;III;>=60;0;0;3
+2011;norte;juncao retossigmoide;metastaticos;IV;<60;2;2;3
+2011;norte;juncao retossigmoide;metastaticos;IV;>=60;1;1;1
+2011;norte;reto;nao metastaticos;I;<60;0;0;1
+2011;norte;reto;nao metastaticos;I;>=60;0;1;5
+2011;norte;reto;nao metastaticos;II;<60;2;3;7
+2011;norte;reto;nao metastaticos;II;>=60;1;4;9
+2011;norte;reto;nao metastaticos;III;<60;2;3;8
+2011;norte;reto;nao metastaticos;III;>=60;6;7;13
+2011;norte;reto;metastaticos;IV;<60;4;8;11
+2011;norte;reto;metastaticos;IV;>=60;4;5;9
+2011;sudeste;colon;nao metastaticos;I;<60;5;15;114
+2011;sudeste;colon;nao metastaticos;I;>=60;18;50;164
+2011;sudeste;colon;nao metastaticos;II;<60;16;60;308
+2011;sudeste;colon;nao metastaticos;II;>=60;51;158;492
+2011;sudeste;colon;nao metastaticos;III;<60;42;133;374
+2011;sudeste;colon;nao metastaticos;III;>=60;72;210;461
+2011;sudeste;colon;metastaticos;IV;<60;139;275;378
+2011;sudeste;colon;metastaticos;IV;>=60;198;343;447
+2011;sudeste;juncao retossigmoide;nao metastaticos;I;<60;0;1;18
+2011;sudeste;juncao retossigmoide;nao metastaticos;I;>=60;1;6;29
+2011;sudeste;juncao retossigmoide;nao metastaticos;II;<60;3;11;51
+2011;sudeste;juncao retossigmoide;nao metastaticos;II;>=60;9;26;89
+2011;sudeste;juncao retossigmoide;nao metastaticos;III;<60;3;18;60
+2011;sudeste;juncao retossigmoide;nao metastaticos;III;>=60;14;32;80
+2011;sudeste;juncao retossigmoide;metastaticos;IV;<60;14;39;52
+2011;sudeste;juncao retossigmoide;metastaticos;IV;>=60;19;30;40
+2011;sudeste;reto;nao metastaticos;I;<60;0;15;107
+2011;sudeste;reto;nao metastaticos;I;>=60;22;65;176
+2011;sudeste;reto;nao metastaticos;II;<60;14;72;274
+2011;sudeste;reto;nao metastaticos;II;>=60;62;165;353
+2011;sudeste;reto;nao metastaticos;III;<60;25;119;327
+2011;sudeste;reto;nao metastaticos;III;>=60;68;199;382
+2011;sudeste;reto;metastaticos;IV;<60;60;171;220
+2011;sudeste;reto;metastaticos;IV;>=60;122;223;265
+2011;sul;colon;nao metastaticos;I;<60;0;2;26
+2011;sul;colon;nao metastaticos;I;>=60;5;5;49
+2011;sul;colon;nao metastaticos;II;<60;1;2;108
+2011;sul;colon;nao metastaticos;II;>=60;11;17;147
+2011;sul;colon;nao metastaticos;III;<60;10;18;162
+2011;sul;colon;nao metastaticos;III;>=60;13;20;185
+2011;sul;colon;metastaticos;IV;<60;41;66;155
+2011;sul;colon;metastaticos;IV;>=60;35;62;188
+2011;sul;juncao retossigmoide;nao metastaticos;I;<60;0;0;7
+2011;sul;juncao retossigmoide;nao metastaticos;I;>=60;1;2;14
+2011;sul;juncao retossigmoide;nao metastaticos;II;<60;0;2;18
+2011;sul;juncao retossigmoide;nao metastaticos;II;>=60;1;3;24
+2011;sul;juncao retossigmoide;nao metastaticos;III;<60;2;4;24
+2011;sul;juncao retossigmoide;nao metastaticos;III;>=60;3;5;38
+2011;sul;juncao retossigmoide;metastaticos;IV;<60;3;4;16
+2011;sul;juncao retossigmoide;metastaticos;IV;>=60;3;11;23
+2011;sul;reto;nao metastaticos;I;<60;0;1;29
+2011;sul;reto;nao metastaticos;I;>=60;4;4;33
+2011;sul;reto;nao metastaticos;II;<60;3;5;78
+2011;sul;reto;nao metastaticos;II;>=60;9;11;99
+2011;sul;reto;nao metastaticos;III;<60;11;14;122
+2011;sul;reto;nao metastaticos;III;>=60;20;25;137
+2011;sul;reto;metastaticos;IV;<60;18;39;91
+2011;sul;reto;metastaticos;IV;>=60;15;27;80
+2012;centroeste;colon;nao metastaticos;I;<60;0;0;7
+2012;centroeste;colon;nao metastaticos;I;>=60;0;0;7
+2012;centroeste;colon;nao metastaticos;II;<60;1;1;10
+2012;centroeste;colon;nao metastaticos;II;>=60;3;5;13
+2012;centroeste;colon;nao metastaticos;III;<60;2;3;21
+2012;centroeste;colon;nao metastaticos;III;>=60;1;1;10
+2012;centroeste;colon;metastaticos;IV;<60;3;5;13
+2012;centroeste;colon;metastaticos;IV;>=60;1;2;9
+2012;centroeste;juncao retossigmoide;nao metastaticos;I;<60;0;0;1
+2012;centroeste;juncao retossigmoide;nao metastaticos;I;>=60;0;0;1
+2012;centroeste;juncao retossigmoide;nao metastaticos;II;>=60;0;0;5
+2012;centroeste;juncao retossigmoide;nao metastaticos;III;>=60;0;0;1
+2012;centroeste;juncao retossigmoide;metastaticos;IV;<60;0;0;1
+2012;centroeste;reto;nao metastaticos;I;<60;0;1;3
+2012;centroeste;reto;nao metastaticos;I;>=60;0;0;2
+2012;centroeste;reto;nao metastaticos;II;<60;0;0;11
+2012;centroeste;reto;nao metastaticos;II;>=60;1;3;11
+2012;centroeste;reto;nao metastaticos;III;<60;0;0;11
+2012;centroeste;reto;nao metastaticos;III;>=60;0;1;11
+2012;centroeste;reto;metastaticos;IV;<60;1;2;5
+2012;centroeste;reto;metastaticos;IV;>=60;5;6;11
+2012;nordeste;colon;nao metastaticos;I;<60;0;0;15
+2012;nordeste;colon;nao metastaticos;I;>=60;1;1;15
+2012;nordeste;colon;nao metastaticos;II;<60;5;9;72
+2012;nordeste;colon;nao metastaticos;II;>=60;3;8;79
+2012;nordeste;colon;nao metastaticos;III;<60;4;14;104
+2012;nordeste;colon;nao metastaticos;III;>=60;4;14;96
+2012;nordeste;colon;metastaticos;IV;<60;20;37;94
+2012;nordeste;colon;metastaticos;IV;>=60;18;35;80
+2012;nordeste;juncao retossigmoide;nao metastaticos;I;<60;0;0;6
+2012;nordeste;juncao retossigmoide;nao metastaticos;I;>=60;0;0;5
+2012;nordeste;juncao retossigmoide;nao metastaticos;II;<60;1;2;17
+2012;nordeste;juncao retossigmoide;nao metastaticos;II;>=60;1;2;20
+2012;nordeste;juncao retossigmoide;nao metastaticos;III;<60;0;4;17
+2012;nordeste;juncao retossigmoide;nao metastaticos;III;>=60;0;1;15
+2012;nordeste;juncao retossigmoide;metastaticos;IV;<60;3;6;21
+2012;nordeste;juncao retossigmoide;metastaticos;IV;>=60;2;3;15
+2012;nordeste;reto;nao metastaticos;I;<60;1;1;14
+2012;nordeste;reto;nao metastaticos;I;>=60;2;3;20
+2012;nordeste;reto;nao metastaticos;II;<60;4;6;59
+2012;nordeste;reto;nao metastaticos;II;>=60;9;18;97
+2012;nordeste;reto;nao metastaticos;III;<60;3;11;61
+2012;nordeste;reto;nao metastaticos;III;>=60;7;17;100
+2012;nordeste;reto;metastaticos;IV;<60;12;22;47
+2012;nordeste;reto;metastaticos;IV;>=60;13;21;56
+2012;norte;colon;nao metastaticos;I;<60;0;0;2
+2012;norte;colon;nao metastaticos;II;<60;1;4;22
+2012;norte;colon;nao metastaticos;II;>=60;2;2;4
+2012;norte;colon;nao metastaticos;III;<60;0;1;18
+2012;norte;colon;nao metastaticos;III;>=60;0;3;19
+2012;norte;colon;metastaticos;IV;<60;5;9;12
+2012;norte;colon;metastaticos;IV;>=60;3;6;18
+2012;norte;juncao retossigmoide;nao metastaticos;I;>=60;0;0;1
+2012;norte;juncao retossigmoide;nao metastaticos;II;<60;0;0;1
+2012;norte;juncao retossigmoide;nao metastaticos;II;>=60;0;0;1
+2012;norte;juncao retossigmoide;nao metastaticos;III;<60;0;1;2
+2012;norte;juncao retossigmoide;nao metastaticos;III;>=60;0;0;1
+2012;norte;juncao retossigmoide;metastaticos;IV;<60;0;1;2
+2012;norte;juncao retossigmoide;metastaticos;IV;>=60;1;1;1
+2012;norte;reto;nao metastaticos;I;>=60;0;0;1
+2012;norte;reto;nao metastaticos;II;<60;0;3;10
+2012;norte;reto;nao metastaticos;II;>=60;0;1;8
+2012;norte;reto;nao metastaticos;III;<60;0;5;16
+2012;norte;reto;nao metastaticos;III;>=60;1;4;9
+2012;norte;reto;metastaticos;IV;<60;2;3;12
+2012;norte;reto;metastaticos;IV;>=60;4;5;10
+2012;sudeste;colon;nao metastaticos;I;<60;4;13;105
+2012;sudeste;colon;nao metastaticos;I;>=60;17;44;168
+2012;sudeste;colon;nao metastaticos;II;<60;11;43;266
+2012;sudeste;colon;nao metastaticos;II;>=60;42;124;454
+2012;sudeste;colon;nao metastaticos;III;<60;19;96;329
+2012;sudeste;colon;nao metastaticos;III;>=60;86;208;489
+2012;sudeste;colon;metastaticos;IV;<60;141;266;374
+2012;sudeste;colon;metastaticos;IV;>=60;184;320;419
+2012;sudeste;juncao retossigmoide;nao metastaticos;I;<60;0;0;16
+2012;sudeste;juncao retossigmoide;nao metastaticos;I;>=60;2;10;35
+2012;sudeste;juncao retossigmoide;nao metastaticos;II;<60;1;7;39
+2012;sudeste;juncao retossigmoide;nao metastaticos;II;>=60;4;15;62
+2012;sudeste;juncao retossigmoide;nao metastaticos;III;<60;2;12;56
+2012;sudeste;juncao retossigmoide;nao metastaticos;III;>=60;6;23;80
+2012;sudeste;juncao retossigmoide;metastaticos;IV;<60;17;36;52
+2012;sudeste;juncao retossigmoide;metastaticos;IV;>=60;11;35;53
+2012;sudeste;reto;nao metastaticos;I;<60;1;15;82
+2012;sudeste;reto;nao metastaticos;I;>=60;9;49;162
+2012;sudeste;reto;nao metastaticos;II;<60;21;73;239
+2012;sudeste;reto;nao metastaticos;II;>=60;44;140;323
+2012;sudeste;reto;nao metastaticos;III;<60;25;99;331
+2012;sudeste;reto;nao metastaticos;III;>=60;46;156;366
+2012;sudeste;reto;metastaticos;IV;<60;93;197;262
+2012;sudeste;reto;metastaticos;IV;>=60;111;222;265
+2012;sul;colon;nao metastaticos;I;<60;2;2;37
+2012;sul;colon;nao metastaticos;I;>=60;6;6;55
+2012;sul;colon;nao metastaticos;II;<60;4;10;120
+2012;sul;colon;nao metastaticos;II;>=60;13;17;150
+2012;sul;colon;nao metastaticos;III;<60;7;8;155
+2012;sul;colon;nao metastaticos;III;>=60;23;39;210
+2012;sul;colon;metastaticos;IV;<60;32;54;132
+2012;sul;colon;metastaticos;IV;>=60;41;69;173
+2012;sul;juncao retossigmoide;nao metastaticos;I;<60;1;1;13
+2012;sul;juncao retossigmoide;nao metastaticos;I;>=60;0;0;16
+2012;sul;juncao retossigmoide;nao metastaticos;II;<60;0;1;21
+2012;sul;juncao retossigmoide;nao metastaticos;II;>=60;4;5;34
+2012;sul;juncao retossigmoide;nao metastaticos;III;<60;1;4;28
+2012;sul;juncao retossigmoide;nao metastaticos;III;>=60;7;12;42
+2012;sul;juncao retossigmoide;metastaticos;IV;<60;3;6;22
+2012;sul;juncao retossigmoide;metastaticos;IV;>=60;2;4;21
+2012;sul;reto;nao metastaticos;I;<60;1;3;21
+2012;sul;reto;nao metastaticos;I;>=60;4;6;47
+2012;sul;reto;nao metastaticos;II;<60;2;4;79
+2012;sul;reto;nao metastaticos;II;>=60;7;11;108
+2012;sul;reto;nao metastaticos;III;<60;12;16;111
+2012;sul;reto;nao metastaticos;III;>=60;11;19;131
+2012;sul;reto;metastaticos;IV;<60;12;25;70
+2012;sul;reto;metastaticos;IV;>=60;16;28;65
+2013;centroeste;colon;nao metastaticos;I;<60;2;2;9
+2013;centroeste;colon;nao metastaticos;I;>=60;2;2;8
+2013;centroeste;colon;nao metastaticos;II;<60;1;1;21
+2013;centroeste;colon;nao metastaticos;II;>=60;2;2;22
+2013;centroeste;colon;nao metastaticos;III;<60;2;3;22
+2013;centroeste;colon;nao metastaticos;III;>=60;3;3;19
+2013;centroeste;colon;metastaticos;IV;<60;5;9;26
+2013;centroeste;colon;metastaticos;IV;>=60;5;6;13
+2013;centroeste;juncao retossigmoide;nao metastaticos;II;<60;0;0;3
+2013;centroeste;juncao retossigmoide;nao metastaticos;II;>=60;0;0;4
+2013;centroeste;juncao retossigmoide;nao metastaticos;III;<60;0;0;2
+2013;centroeste;juncao retossigmoide;nao metastaticos;III;>=60;0;0;3
+2013;centroeste;juncao retossigmoide;metastaticos;IV;<60;0;0;2
+2013;centroeste;juncao retossigmoide;metastaticos;IV;>=60;0;0;1
+2013;centroeste;reto;nao metastaticos;I;<60;0;1;3
+2013;centroeste;reto;nao metastaticos;I;>=60;0;0;9
+2013;centroeste;reto;nao metastaticos;II;<60;2;2;12
+2013;centroeste;reto;nao metastaticos;II;>=60;1;1;9
+2013;centroeste;reto;nao metastaticos;III;<60;1;1;19
+2013;centroeste;reto;nao metastaticos;III;>=60;3;5;20
+2013;centroeste;reto;metastaticos;IV;<60;4;6;10
+2013;centroeste;reto;metastaticos;IV;>=60;2;3;9
+2013;nordeste;colon;nao metastaticos;I;<60;0;0;14
+2013;nordeste;colon;nao metastaticos;I;>=60;0;0;16
+2013;nordeste;colon;nao metastaticos;II;<60;3;7;94
+2013;nordeste;colon;nao metastaticos;II;>=60;6;9;109
+2013;nordeste;colon;nao metastaticos;III;<60;7;10;96
+2013;nordeste;colon;nao metastaticos;III;>=60;10;15;101
+2013;nordeste;colon;metastaticos;IV;<60;30;56;126
+2013;nordeste;colon;metastaticos;IV;>=60;18;30;77
+2013;nordeste;juncao retossigmoide;nao metastaticos;I;<60;0;0;5
+2013;nordeste;juncao retossigmoide;nao metastaticos;I;>=60;0;1;5
+2013;nordeste;juncao retossigmoide;nao metastaticos;II;<60;1;1;13
+2013;nordeste;juncao retossigmoide;nao metastaticos;II;>=60;1;1;22
+2013;nordeste;juncao retossigmoide;nao metastaticos;III;<60;3;5;20
+2013;nordeste;juncao retossigmoide;nao metastaticos;III;>=60;2;3;26
+2013;nordeste;juncao retossigmoide;metastaticos;IV;<60;3;6;18
+2013;nordeste;juncao retossigmoide;metastaticos;IV;>=60;5;5;11
+2013;nordeste;reto;nao metastaticos;I;<60;0;2;14
+2013;nordeste;reto;nao metastaticos;I;>=60;1;3;26
+2013;nordeste;reto;nao metastaticos;II;<60;9;10;66
+2013;nordeste;reto;nao metastaticos;II;>=60;9;15;116
+2013;nordeste;reto;nao metastaticos;III;<60;14;23;115
+2013;nordeste;reto;nao metastaticos;III;>=60;5;8;96
+2013;nordeste;reto;metastaticos;IV;<60;11;20;48
+2013;nordeste;reto;metastaticos;IV;>=60;15;23;65
+2013;norte;colon;nao metastaticos;I;<60;2;2;3
+2013;norte;colon;nao metastaticos;I;>=60;0;0;2
+2013;norte;colon;nao metastaticos;II;<60;0;1;14
+2013;norte;colon;nao metastaticos;II;>=60;0;0;10
+2013;norte;colon;nao metastaticos;III;<60;1;3;21
+2013;norte;colon;nao metastaticos;III;>=60;3;4;11
+2013;norte;colon;metastaticos;IV;<60;3;9;19
+2013;norte;colon;metastaticos;IV;>=60;3;5;7
+2013;norte;juncao retossigmoide;nao metastaticos;I;>=60;0;0;1
+2013;norte;juncao retossigmoide;nao metastaticos;II;<60;0;0;2
+2013;norte;juncao retossigmoide;nao metastaticos;II;>=60;1;2;3
+2013;norte;juncao retossigmoide;nao metastaticos;III;<60;0;0;2
+2013;norte;juncao retossigmoide;nao metastaticos;III;>=60;1;1;2
+2013;norte;juncao retossigmoide;metastaticos;IV;<60;0;1;3
+2013;norte;juncao retossigmoide;metastaticos;IV;>=60;0;0;1
+2013;norte;reto;nao metastaticos;I;>=60;1;1;2
+2013;norte;reto;nao metastaticos;II;<60;2;3;10
+2013;norte;reto;nao metastaticos;II;>=60;2;4;12
+2013;norte;reto;nao metastaticos;III;<60;1;2;8
+2013;norte;reto;nao metastaticos;III;>=60;1;4;7
+2013;norte;reto;metastaticos;IV;<60;1;4;8
+2013;norte;reto;metastaticos;IV;>=60;2;4;8
+2013;sudeste;colon;nao metastaticos;I;<60;5;14;117
+2013;sudeste;colon;nao metastaticos;I;>=60;21;47;198
+2013;sudeste;colon;nao metastaticos;II;<60;13;45;314
+2013;sudeste;colon;nao metastaticos;II;>=60;65;155;534
+2013;sudeste;colon;nao metastaticos;III;<60;24;84;348
+2013;sudeste;colon;nao metastaticos;III;>=60;84;199;544
+2013;sudeste;colon;metastaticos;IV;<60;148;298;422
+2013;sudeste;colon;metastaticos;IV;>=60;224;364;478
+2013;sudeste;juncao retossigmoide;nao metastaticos;I;<60;0;1;21
+2013;sudeste;juncao retossigmoide;nao metastaticos;I;>=60;6;9;42
+2013;sudeste;juncao retossigmoide;nao metastaticos;II;<60;1;6;38
+2013;sudeste;juncao retossigmoide;nao metastaticos;II;>=60;11;24;81
+2013;sudeste;juncao retossigmoide;nao metastaticos;III;<60;6;14;60
+2013;sudeste;juncao retossigmoide;nao metastaticos;III;>=60;10;26;76
+2013;sudeste;juncao retossigmoide;metastaticos;IV;<60;19;38;52
+2013;sudeste;juncao retossigmoide;metastaticos;IV;>=60;31;50;69
+2013;sudeste;reto;nao metastaticos;I;<60;3;14;120
+2013;sudeste;reto;nao metastaticos;I;>=60;19;56;180
+2013;sudeste;reto;nao metastaticos;II;<60;14;52;242
+2013;sudeste;reto;nao metastaticos;II;>=60;48;133;387
+2013;sudeste;reto;nao metastaticos;III;<60;26;109;332
+2013;sudeste;reto;nao metastaticos;III;>=60;80;191;432
+2013;sudeste;reto;metastaticos;IV;<60;94;189;247
+2013;sudeste;reto;metastaticos;IV;>=60;112;224;307
+2013;sul;colon;nao metastaticos;I;<60;2;3;48
+2013;sul;colon;nao metastaticos;I;>=60;6;7;59
+2013;sul;colon;nao metastaticos;II;<60;7;12;121
+2013;sul;colon;nao metastaticos;II;>=60;7;14;185
+2013;sul;colon;nao metastaticos;III;<60;8;15;167
+2013;sul;colon;nao metastaticos;III;>=60;21;36;224
+2013;sul;colon;metastaticos;IV;<60;36;53;169
+2013;sul;colon;metastaticos;IV;>=60;43;65;163
+2013;sul;juncao retossigmoide;nao metastaticos;I;<60;0;0;11
+2013;sul;juncao retossigmoide;nao metastaticos;I;>=60;1;1;19
+2013;sul;juncao retossigmoide;nao metastaticos;II;<60;1;1;25
+2013;sul;juncao retossigmoide;nao metastaticos;II;>=60;3;4;29
+2013;sul;juncao retossigmoide;nao metastaticos;III;<60;2;3;39
+2013;sul;juncao retossigmoide;nao metastaticos;III;>=60;7;7;34
+2013;sul;juncao retossigmoide;metastaticos;IV;<60;2;4;22
+2013;sul;juncao retossigmoide;metastaticos;IV;>=60;3;4;17
+2013;sul;reto;nao metastaticos;I;<60;2;2;31
+2013;sul;reto;nao metastaticos;I;>=60;8;9;53
+2013;sul;reto;nao metastaticos;II;<60;6;11;81
+2013;sul;reto;nao metastaticos;II;>=60;13;17;110
+2013;sul;reto;nao metastaticos;III;<60;4;10;120
+2013;sul;reto;nao metastaticos;III;>=60;17;30;143
+2013;sul;reto;metastaticos;IV;<60;14;26;75
+2013;sul;reto;metastaticos;IV;>=60;17;26;78
+2014;centroeste;colon;nao metastaticos;I;<60;0;0;8
+2014;centroeste;colon;nao metastaticos;I;>=60;1;1;10
+2014;centroeste;colon;nao metastaticos;II;<60;0;1;10
+2014;centroeste;colon;nao metastaticos;II;>=60;3;3;22
+2014;centroeste;colon;nao metastaticos;III;<60;1;2;20
+2014;centroeste;colon;nao metastaticos;III;>=60;4;6;21
+2014;centroeste;colon;metastaticos;IV;<60;2;4;13
+2014;centroeste;colon;metastaticos;IV;>=60;3;5;21
+2014;centroeste;juncao retossigmoide;nao metastaticos;I;>=60;0;0;2
+2014;centroeste;juncao retossigmoide;nao metastaticos;II;>=60;0;0;3
+2014;centroeste;juncao retossigmoide;nao metastaticos;III;<60;0;0;3
+2014;centroeste;juncao retossigmoide;nao metastaticos;III;>=60;0;0;3
+2014;centroeste;juncao retossigmoide;metastaticos;IV;<60;0;1;2
+2014;centroeste;juncao retossigmoide;metastaticos;IV;>=60;0;0;3
+2014;centroeste;reto;nao metastaticos;I;<60;0;0;2
+2014;centroeste;reto;nao metastaticos;I;>=60;1;1;9
+2014;centroeste;reto;nao metastaticos;II;<60;0;0;15
+2014;centroeste;reto;nao metastaticos;II;>=60;2;2;14
+2014;centroeste;reto;nao metastaticos;III;<60;1;1;16
+2014;centroeste;reto;nao metastaticos;III;>=60;2;2;15
+2014;centroeste;reto;metastaticos;IV;<60;1;3;4
+2014;centroeste;reto;metastaticos;IV;>=60;2;4;12
+2014;nordeste;colon;nao metastaticos;I;<60;0;0;11
+2014;nordeste;colon;nao metastaticos;I;>=60;0;1;13
+2014;nordeste;colon;nao metastaticos;II;<60;2;2;63
+2014;nordeste;colon;nao metastaticos;II;>=60;2;4;87
+2014;nordeste;colon;nao metastaticos;III;<60;9;17;124
+2014;nordeste;colon;nao metastaticos;III;>=60;10;17;92
+2014;nordeste;colon;metastaticos;IV;<60;18;32;92
+2014;nordeste;colon;metastaticos;IV;>=60;26;39;92
+2014;nordeste;juncao retossigmoide;nao metastaticos;I;<60;0;1;8
+2014;nordeste;juncao retossigmoide;nao metastaticos;I;>=60;0;0;8
+2014;nordeste;juncao retossigmoide;nao metastaticos;II;<60;0;0;17
+2014;nordeste;juncao retossigmoide;nao metastaticos;II;>=60;0;0;12
+2014;nordeste;juncao retossigmoide;nao metastaticos;III;<60;1;1;18
+2014;nordeste;juncao retossigmoide;nao metastaticos;III;>=60;1;1;14
+2014;nordeste;juncao retossigmoide;metastaticos;IV;<60;3;5;19
+2014;nordeste;juncao retossigmoide;metastaticos;IV;>=60;1;5;9
+2014;nordeste;reto;nao metastaticos;I;<60;0;0;15
+2014;nordeste;reto;nao metastaticos;I;>=60;1;2;32
+2014;nordeste;reto;nao metastaticos;II;<60;3;7;50
+2014;nordeste;reto;nao metastaticos;II;>=60;8;11;88
+2014;nordeste;reto;nao metastaticos;III;<60;6;15;106
+2014;nordeste;reto;nao metastaticos;III;>=60;11;17;124
+2014;nordeste;reto;metastaticos;IV;<60;11;17;54
+2014;nordeste;reto;metastaticos;IV;>=60;15;28;68
+2014;norte;colon;nao metastaticos;I;<60;0;0;3
+2014;norte;colon;nao metastaticos;I;>=60;0;0;2
+2014;norte;colon;nao metastaticos;II;<60;1;4;17
+2014;norte;colon;nao metastaticos;II;>=60;1;1;13
+2014;norte;colon;nao metastaticos;III;<60;0;4;24
+2014;norte;colon;nao metastaticos;III;>=60;1;4;20
+2014;norte;colon;metastaticos;IV;<60;6;8;21
+2014;norte;colon;metastaticos;IV;>=60;3;4;18
+2014;norte;juncao retossigmoide;nao metastaticos;I;<60;0;0;1
+2014;norte;juncao retossigmoide;nao metastaticos;I;>=60;1;1;2
+2014;norte;juncao retossigmoide;nao metastaticos;II;<60;0;0;3
+2014;norte;juncao retossigmoide;nao metastaticos;II;>=60;0;0;1
+2014;norte;juncao retossigmoide;nao metastaticos;III;<60;1;1;4
+2014;norte;juncao retossigmoide;nao metastaticos;III;>=60;1;2;6
+2014;norte;juncao retossigmoide;metastaticos;IV;<60;0;0;3
+2014;norte;juncao retossigmoide;metastaticos;IV;>=60;2;2;3
+2014;norte;reto;nao metastaticos;I;>=60;0;0;1
+2014;norte;reto;nao metastaticos;II;<60;1;4;14
+2014;norte;reto;nao metastaticos;II;>=60;1;1;10
+2014;norte;reto;nao metastaticos;III;<60;1;4;9
+2014;norte;reto;nao metastaticos;III;>=60;3;4;14
+2014;norte;reto;metastaticos;IV;<60;2;4;11
+2014;norte;reto;metastaticos;IV;>=60;3;3;6
+2014;sudeste;colon;nao metastaticos;I;<60;6;12;142
+2014;sudeste;colon;nao metastaticos;I;>=60;21;47;240
+2014;sudeste;colon;nao metastaticos;II;<60;18;51;335
+2014;sudeste;colon;nao metastaticos;II;>=60;72;134;559
+2014;sudeste;colon;nao metastaticos;III;<60;31;75;359
+2014;sudeste;colon;nao metastaticos;III;>=60;91;205;543
+2014;sudeste;colon;metastaticos;IV;<60;135;279;415
+2014;sudeste;colon;metastaticos;IV;>=60;230;368;501
+2014;sudeste;juncao retossigmoide;nao metastaticos;I;<60;1;1;31
+2014;sudeste;juncao retossigmoide;nao metastaticos;I;>=60;1;4;37
+2014;sudeste;juncao retossigmoide;nao metastaticos;II;<60;0;3;58
+2014;sudeste;juncao retossigmoide;nao metastaticos;II;>=60;11;21;101
+2014;sudeste;juncao retossigmoide;nao metastaticos;III;<60;4;18;96
+2014;sudeste;juncao retossigmoide;nao metastaticos;III;>=60;11;25;96
+2014;sudeste;juncao retossigmoide;metastaticos;IV;<60;23;51;79
+2014;sudeste;juncao retossigmoide;metastaticos;IV;>=60;22;46;69
+2014;sudeste;reto;nao metastaticos;I;<60;4;13;85
+2014;sudeste;reto;nao metastaticos;I;>=60;18;45;177
+2014;sudeste;reto;nao metastaticos;II;<60;10;59;260
+2014;sudeste;reto;nao metastaticos;II;>=60;59;151;433
+2014;sudeste;reto;nao metastaticos;III;<60;33;104;370
+2014;sudeste;reto;nao metastaticos;III;>=60;84;182;447
+2014;sudeste;reto;metastaticos;IV;<60;73;180;240
+2014;sudeste;reto;metastaticos;IV;>=60;114;204;283
+2014;sul;colon;nao metastaticos;I;<60;0;0;32
+2014;sul;colon;nao metastaticos;I;>=60;4;6;77
+2014;sul;colon;nao metastaticos;II;<60;2;5;142
+2014;sul;colon;nao metastaticos;II;>=60;15;20;178
+2014;sul;colon;nao metastaticos;III;<60;6;15;177
+2014;sul;colon;nao metastaticos;III;>=60;15;24;227
+2014;sul;colon;metastaticos;IV;<60;21;34;143
+2014;sul;colon;metastaticos;IV;>=60;51;68;192
+2014;sul;juncao retossigmoide;nao metastaticos;I;<60;0;0;10
+2014;sul;juncao retossigmoide;nao metastaticos;I;>=60;0;0;12
+2014;sul;juncao retossigmoide;nao metastaticos;II;<60;0;0;21
+2014;sul;juncao retossigmoide;nao metastaticos;II;>=60;1;2;33
+2014;sul;juncao retossigmoide;nao metastaticos;III;<60;1;3;49
+2014;sul;juncao retossigmoide;nao metastaticos;III;>=60;2;2;27
+2014;sul;juncao retossigmoide;metastaticos;IV;<60;1;3;14
+2014;sul;juncao retossigmoide;metastaticos;IV;>=60;6;8;24
+2014;sul;reto;nao metastaticos;I;<60;2;4;38
+2014;sul;reto;nao metastaticos;I;>=60;3;6;53
+2014;sul;reto;nao metastaticos;II;<60;3;5;94
+2014;sul;reto;nao metastaticos;II;>=60;6;10;107
+2014;sul;reto;nao metastaticos;III;<60;4;13;127
+2014;sul;reto;nao metastaticos;III;>=60;14;20;142
+2014;sul;reto;metastaticos;IV;<60;18;30;108
+2014;sul;reto;metastaticos;IV;>=60;26;40;106
+2015;centroeste;colon;nao metastaticos;I;<60;0;0;8
+2015;centroeste;colon;nao metastaticos;I;>=60;0;0;9
+2015;centroeste;colon;nao metastaticos;II;<60;0;1;21
+2015;centroeste;colon;nao metastaticos;II;>=60;1;3;40
+2015;centroeste;colon;nao metastaticos;III;<60;0;2;24
+2015;centroeste;colon;nao metastaticos;III;>=60;4;6;31
+2015;centroeste;colon;metastaticos;IV;<60;4;7;21
+2015;centroeste;colon;metastaticos;IV;>=60;10;18;33
+2015;centroeste;juncao retossigmoide;nao metastaticos;I;<60;0;0;2
+2015;centroeste;juncao retossigmoide;nao metastaticos;I;>=60;0;0;2
+2015;centroeste;juncao retossigmoide;nao metastaticos;II;<60;0;0;2
+2015;centroeste;juncao retossigmoide;nao metastaticos;II;>=60;1;2;5
+2015;centroeste;juncao retossigmoide;nao metastaticos;III;<60;0;1;6
+2015;centroeste;juncao retossigmoide;nao metastaticos;III;>=60;0;0;1
+2015;centroeste;juncao retossigmoide;metastaticos;IV;<60;0;2;5
+2015;centroeste;juncao retossigmoide;metastaticos;IV;>=60;1;3;5
+2015;centroeste;reto;nao metastaticos;I;<60;0;0;3
+2015;centroeste;reto;nao metastaticos;I;>=60;0;0;2
+2015;centroeste;reto;nao metastaticos;II;<60;0;0;10
+2015;centroeste;reto;nao metastaticos;II;>=60;1;1;17
+2015;centroeste;reto;nao metastaticos;III;<60;1;2;12
+2015;centroeste;reto;nao metastaticos;III;>=60;2;2;19
+2015;centroeste;reto;metastaticos;IV;<60;1;8;18
+2015;centroeste;reto;metastaticos;IV;>=60;0;6;17
+2015;nordeste;colon;nao metastaticos;I;<60;0;0;9
+2015;nordeste;colon;nao metastaticos;I;>=60;1;2;23
+2015;nordeste;colon;nao metastaticos;II;<60;3;5;99
+2015;nordeste;colon;nao metastaticos;II;>=60;7;7;106
+2015;nordeste;colon;nao metastaticos;III;<60;10;12;123
+2015;nordeste;colon;nao metastaticos;III;>=60;5;10;118
+2015;nordeste;colon;metastaticos;IV;<60;23;39;94
+2015;nordeste;colon;metastaticos;IV;>=60;33;47;111
+2015;nordeste;juncao retossigmoide;nao metastaticos;I;<60;0;0;5
+2015;nordeste;juncao retossigmoide;nao metastaticos;I;>=60;0;0;9
+2015;nordeste;juncao retossigmoide;nao metastaticos;II;<60;0;0;7
+2015;nordeste;juncao retossigmoide;nao metastaticos;II;>=60;1;1;22
+2015;nordeste;juncao retossigmoide;nao metastaticos;III;<60;2;3;22
+2015;nordeste;juncao retossigmoide;nao metastaticos;III;>=60;1;2;25
+2015;nordeste;juncao retossigmoide;metastaticos;IV;<60;6;13;21
+2015;nordeste;juncao retossigmoide;metastaticos;IV;>=60;4;6;17
+2015;nordeste;reto;nao metastaticos;I;<60;1;2;18
+2015;nordeste;reto;nao metastaticos;I;>=60;1;2;28
+2015;nordeste;reto;nao metastaticos;II;<60;1;4;71
+2015;nordeste;reto;nao metastaticos;II;>=60;5;8;94
+2015;nordeste;reto;nao metastaticos;III;<60;4;14;96
+2015;nordeste;reto;nao metastaticos;III;>=60;18;24;134
+2015;nordeste;reto;metastaticos;IV;<60;16;33;73
+2015;nordeste;reto;metastaticos;IV;>=60;15;23;65
+2015;norte;colon;nao metastaticos;I;<60;0;0;5
+2015;norte;colon;nao metastaticos;I;>=60;0;0;1
+2015;norte;colon;nao metastaticos;II;<60;0;2;18
+2015;norte;colon;nao metastaticos;II;>=60;3;3;17
+2015;norte;colon;nao metastaticos;III;<60;3;6;21
+2015;norte;colon;nao metastaticos;III;>=60;2;5;18
+2015;norte;colon;metastaticos;IV;<60;3;5;21
+2015;norte;colon;metastaticos;IV;>=60;1;4;11
+2015;norte;juncao retossigmoide;nao metastaticos;I;>=60;0;0;2
+2015;norte;juncao retossigmoide;nao metastaticos;II;<60;0;0;2
+2015;norte;juncao retossigmoide;nao metastaticos;II;>=60;0;0;6
+2015;norte;juncao retossigmoide;nao metastaticos;III;<60;0;0;2
+2015;norte;juncao retossigmoide;nao metastaticos;III;>=60;1;1;3
+2015;norte;juncao retossigmoide;metastaticos;IV;<60;2;2;5
+2015;norte;juncao retossigmoide;metastaticos;IV;>=60;0;0;2
+2015;norte;reto;nao metastaticos;I;<60;0;0;2
+2015;norte;reto;nao metastaticos;I;>=60;0;0;2
+2015;norte;reto;nao metastaticos;II;<60;0;2;14
+2015;norte;reto;nao metastaticos;II;>=60;1;1;6
+2015;norte;reto;nao metastaticos;III;<60;1;8;21
+2015;norte;reto;nao metastaticos;III;>=60;2;2;12
+2015;norte;reto;metastaticos;IV;<60;2;5;12
+2015;norte;reto;metastaticos;IV;>=60;3;3;6
+2015;sudeste;colon;nao metastaticos;I;<60;8;14;116
+2015;sudeste;colon;nao metastaticos;I;>=60;16;31;198
+2015;sudeste;colon;nao metastaticos;II;<60;16;35;344
+2015;sudeste;colon;nao metastaticos;II;>=60;71;143;581
+2015;sudeste;colon;nao metastaticos;III;<60;22;78;408
+2015;sudeste;colon;nao metastaticos;III;>=60;80;182;594
+2015;sudeste;colon;metastaticos;IV;<60;152;280;422
+2015;sudeste;colon;metastaticos;IV;>=60;254;390;552
+2015;sudeste;juncao retossigmoide;nao metastaticos;I;<60;0;1;18
+2015;sudeste;juncao retossigmoide;nao metastaticos;I;>=60;2;6;32
+2015;sudeste;juncao retossigmoide;nao metastaticos;II;<60;1;7;39
+2015;sudeste;juncao retossigmoide;nao metastaticos;II;>=60;8;17;82
+2015;sudeste;juncao retossigmoide;nao metastaticos;III;<60;3;13;63
+2015;sudeste;juncao retossigmoide;nao metastaticos;III;>=60;13;30;88
+2015;sudeste;juncao retossigmoide;metastaticos;IV;<60;21;47;73
+2015;sudeste;juncao retossigmoide;metastaticos;IV;>=60;43;59;85
+2015;sudeste;reto;nao metastaticos;I;<60;3;11;92
+2015;sudeste;reto;nao metastaticos;I;>=60;16;47;171
+2015;sudeste;reto;nao metastaticos;II;<60;14;48;238
+2015;sudeste;reto;nao metastaticos;II;>=60;56;119;403
+2015;sudeste;reto;nao metastaticos;III;<60;27;81;341
+2015;sudeste;reto;nao metastaticos;III;>=60;61;158;462
+2015;sudeste;reto;metastaticos;IV;<60;81;184;267
+2015;sudeste;reto;metastaticos;IV;>=60;113;206;308
+2015;sul;colon;nao metastaticos;I;<60;0;0;35
+2015;sul;colon;nao metastaticos;I;>=60;8;8;64
+2015;sul;colon;nao metastaticos;II;<60;5;7;116
+2015;sul;colon;nao metastaticos;II;>=60;12;18;209
+2015;sul;colon;nao metastaticos;III;<60;12;21;184
+2015;sul;colon;nao metastaticos;III;>=60;17;29;246
+2015;sul;colon;metastaticos;IV;<60;33;58;175
+2015;sul;colon;metastaticos;IV;>=60;56;80;226
+2015;sul;juncao retossigmoide;nao metastaticos;I;<60;0;0;5
+2015;sul;juncao retossigmoide;nao metastaticos;I;>=60;0;0;10
+2015;sul;juncao retossigmoide;nao metastaticos;II;<60;2;2;22
+2015;sul;juncao retossigmoide;nao metastaticos;II;>=60;2;2;28
+2015;sul;juncao retossigmoide;nao metastaticos;III;<60;1;4;27
+2015;sul;juncao retossigmoide;nao metastaticos;III;>=60;1;1;34
+2015;sul;juncao retossigmoide;metastaticos;IV;<60;3;7;17
+2015;sul;juncao retossigmoide;metastaticos;IV;>=60;8;9;27
+2015;sul;reto;nao metastaticos;I;<60;0;1;27
+2015;sul;reto;nao metastaticos;I;>=60;2;2;42
+2015;sul;reto;nao metastaticos;II;<60;1;7;106
+2015;sul;reto;nao metastaticos;II;>=60;13;17;122
+2015;sul;reto;nao metastaticos;III;<60;7;12;127
+2015;sul;reto;nao metastaticos;III;>=60;8;21;142
+2015;sul;reto;metastaticos;IV;<60;13;20;90
+2015;sul;reto;metastaticos;IV;>=60;29;38;110
+2016;centroeste;colon;nao metastaticos;I;<60;0;0;2
+2016;centroeste;colon;nao metastaticos;I;>=60;1;1;5
+2016;centroeste;colon;nao metastaticos;II;<60;1;1;19
+2016;centroeste;colon;nao metastaticos;II;>=60;1;2;17
+2016;centroeste;colon;nao metastaticos;III;<60;2;5;25
+2016;centroeste;colon;nao metastaticos;III;>=60;2;4;19
+2016;centroeste;colon;metastaticos;IV;<60;5;10;19
+2016;centroeste;colon;metastaticos;IV;>=60;3;6;18
+2016;centroeste;juncao retossigmoide;nao metastaticos;I;<60;0;0;3
+2016;centroeste;juncao retossigmoide;nao metastaticos;II;<60;0;0;5
+2016;centroeste;juncao retossigmoide;nao metastaticos;II;>=60;0;1;7
+2016;centroeste;juncao retossigmoide;nao metastaticos;III;<60;1;2;8
+2016;centroeste;juncao retossigmoide;nao metastaticos;III;>=60;0;0;4
+2016;centroeste;juncao retossigmoide;metastaticos;IV;<60;1;1;3
+2016;centroeste;juncao retossigmoide;metastaticos;IV;>=60;1;2;4
+2016;centroeste;reto;nao metastaticos;I;<60;1;1;1
+2016;centroeste;reto;nao metastaticos;I;>=60;0;0;2
+2016;centroeste;reto;nao metastaticos;II;<60;1;1;13
+2016;centroeste;reto;nao metastaticos;II;>=60;0;0;5
+2016;centroeste;reto;nao metastaticos;III;<60;2;3;13
+2016;centroeste;reto;nao metastaticos;III;>=60;4;7;25
+2016;centroeste;reto;metastaticos;IV;<60;2;4;11
+2016;centroeste;reto;metastaticos;IV;>=60;1;4;11
+2016;nordeste;colon;nao metastaticos;I;<60;2;2;17
+2016;nordeste;colon;nao metastaticos;I;>=60;0;0;20
+2016;nordeste;colon;nao metastaticos;II;<60;5;9;83
+2016;nordeste;colon;nao metastaticos;II;>=60;4;8;114
+2016;nordeste;colon;nao metastaticos;III;<60;3;10;132
+2016;nordeste;colon;nao metastaticos;III;>=60;15;22;142
+2016;nordeste;colon;metastaticos;IV;<60;27;46;130
+2016;nordeste;colon;metastaticos;IV;>=60;35;48;126
+2016;nordeste;juncao retossigmoide;nao metastaticos;I;<60;0;1;6
+2016;nordeste;juncao retossigmoide;nao metastaticos;I;>=60;1;1;15
+2016;nordeste;juncao retossigmoide;nao metastaticos;II;<60;0;0;13
+2016;nordeste;juncao retossigmoide;nao metastaticos;II;>=60;0;1;18
+2016;nordeste;juncao retossigmoide;nao metastaticos;III;<60;3;5;26
+2016;nordeste;juncao retossigmoide;nao metastaticos;III;>=60;2;3;25
+2016;nordeste;juncao retossigmoide;metastaticos;IV;<60;3;4;11
+2016;nordeste;juncao retossigmoide;metastaticos;IV;>=60;6;11;30
+2016;nordeste;reto;nao metastaticos;I;<60;0;0;16
+2016;nordeste;reto;nao metastaticos;I;>=60;1;3;23
+2016;nordeste;reto;nao metastaticos;II;<60;1;7;69
+2016;nordeste;reto;nao metastaticos;II;>=60;11;16;107
+2016;nordeste;reto;nao metastaticos;III;<60;8;12;101
+2016;nordeste;reto;nao metastaticos;III;>=60;16;26;120
+2016;nordeste;reto;metastaticos;IV;<60;23;33;71
+2016;nordeste;reto;metastaticos;IV;>=60;21;35;91
+2016;norte;colon;nao metastaticos;I;<60;0;0;2
+2016;norte;colon;nao metastaticos;I;>=60;0;0;2
+2016;norte;colon;nao metastaticos;II;<60;3;3;24
+2016;norte;colon;nao metastaticos;II;>=60;0;2;20
+2016;norte;colon;nao metastaticos;III;<60;1;4;29
+2016;norte;colon;nao metastaticos;III;>=60;3;7;25
+2016;norte;colon;metastaticos;IV;<60;7;11;29
+2016;norte;colon;metastaticos;IV;>=60;11;18;33
+2016;norte;juncao retossigmoide;nao metastaticos;II;<60;1;1;4
+2016;norte;juncao retossigmoide;nao metastaticos;II;>=60;0;0;2
+2016;norte;juncao retossigmoide;nao metastaticos;III;<60;0;0;4
+2016;norte;juncao retossigmoide;nao metastaticos;III;>=60;0;1;2
+2016;norte;juncao retossigmoide;metastaticos;IV;<60;0;0;2
+2016;norte;reto;nao metastaticos;I;>=60;1;1;3
+2016;norte;reto;nao metastaticos;II;<60;1;1;6
+2016;norte;reto;nao metastaticos;II;>=60;1;1;12
+2016;norte;reto;nao metastaticos;III;<60;3;4;15
+2016;norte;reto;nao metastaticos;III;>=60;3;7;21
+2016;norte;reto;metastaticos;IV;<60;5;9;20
+2016;norte;reto;metastaticos;IV;>=60;4;7;13
+2016;sudeste;colon;nao metastaticos;I;<60;3;8;126
+2016;sudeste;colon;nao metastaticos;I;>=60;18;29;196
+2016;sudeste;colon;nao metastaticos;II;<60;8;17;321
+2016;sudeste;colon;nao metastaticos;II;>=60;52;86;544
+2016;sudeste;colon;nao metastaticos;III;<60;24;53;393
+2016;sudeste;colon;nao metastaticos;III;>=60;109;188;620
+2016;sudeste;colon;metastaticos;IV;<60;156;263;412
+2016;sudeste;colon;metastaticos;IV;>=60;244;379;577
+2016;sudeste;juncao retossigmoide;nao metastaticos;I;<60;0;0;22
+2016;sudeste;juncao retossigmoide;nao metastaticos;I;>=60;1;4;35
+2016;sudeste;juncao retossigmoide;nao metastaticos;II;<60;3;6;52
+2016;sudeste;juncao retossigmoide;nao metastaticos;II;>=60;12;12;80
+2016;sudeste;juncao retossigmoide;nao metastaticos;III;<60;12;19;74
+2016;sudeste;juncao retossigmoide;nao metastaticos;III;>=60;6;11;86
+2016;sudeste;juncao retossigmoide;metastaticos;IV;<60;16;29;62
+2016;sudeste;juncao retossigmoide;metastaticos;IV;>=60;30;46;72
+2016;sudeste;reto;nao metastaticos;I;<60;1;7;96
+2016;sudeste;reto;nao metastaticos;I;>=60;19;39;162
+2016;sudeste;reto;nao metastaticos;II;<60;20;43;233
+2016;sudeste;reto;nao metastaticos;II;>=60;47;103;362
+2016;sudeste;reto;nao metastaticos;III;<60;25;81;343
+2016;sudeste;reto;nao metastaticos;III;>=60;73;161;484
+2016;sudeste;reto;metastaticos;IV;<60;77;154;256
+2016;sudeste;reto;metastaticos;IV;>=60;129;227;332
+2016;sul;colon;nao metastaticos;I;<60;1;3;42
+2016;sul;colon;nao metastaticos;I;>=60;2;3;71
+2016;sul;colon;nao metastaticos;II;<60;2;4;128
+2016;sul;colon;nao metastaticos;II;>=60;12;15;207
+2016;sul;colon;nao metastaticos;III;<60;8;12;215
+2016;sul;colon;nao metastaticos;III;>=60;37;48;295
+2016;sul;colon;metastaticos;IV;<60;51;76;216
+2016;sul;colon;metastaticos;IV;>=60;76;98;272
+2016;sul;juncao retossigmoide;nao metastaticos;I;<60;0;1;4
+2016;sul;juncao retossigmoide;nao metastaticos;I;>=60;2;2;10
+2016;sul;juncao retossigmoide;nao metastaticos;II;<60;1;1;20
+2016;sul;juncao retossigmoide;nao metastaticos;II;>=60;1;1;18
+2016;sul;juncao retossigmoide;nao metastaticos;III;<60;0;1;25
+2016;sul;juncao retossigmoide;nao metastaticos;III;>=60;3;4;37
+2016;sul;juncao retossigmoide;metastaticos;IV;<60;5;8;25
+2016;sul;juncao retossigmoide;metastaticos;IV;>=60;2;7;24
+2016;sul;reto;nao metastaticos;I;<60;1;1;26
+2016;sul;reto;nao metastaticos;I;>=60;3;5;48
+2016;sul;reto;nao metastaticos;II;<60;5;8;102
+2016;sul;reto;nao metastaticos;II;>=60;11;16;125
+2016;sul;reto;nao metastaticos;III;<60;11;17;149
+2016;sul;reto;nao metastaticos;III;>=60;19;30;174
+2016;sul;reto;metastaticos;IV;<60;24;36;106
+2016;sul;reto;metastaticos;IV;>=60;32;35;112
+2017;centroeste;colon;nao metastaticos;I;<60;0;0;1
+2017;centroeste;colon;nao metastaticos;I;>=60;0;0;2
+2017;centroeste;colon;nao metastaticos;II;<60;2;3;23
+2017;centroeste;colon;nao metastaticos;II;>=60;0;1;20
+2017;centroeste;colon;nao metastaticos;III;<60;1;1;36
+2017;centroeste;colon;nao metastaticos;III;>=60;3;3;23
+2017;centroeste;colon;metastaticos;IV;<60;7;11;31
+2017;centroeste;colon;metastaticos;IV;>=60;11;14;36
+2017;centroeste;juncao retossigmoide;nao metastaticos;I;>=60;0;0;1
+2017;centroeste;juncao retossigmoide;nao metastaticos;II;<60;0;0;2
+2017;centroeste;juncao retossigmoide;nao metastaticos;II;>=60;1;1;3
+2017;centroeste;juncao retossigmoide;nao metastaticos;III;<60;0;0;2
+2017;centroeste;juncao retossigmoide;nao metastaticos;III;>=60;1;1;2
+2017;centroeste;juncao retossigmoide;metastaticos;IV;<60;1;1;2
+2017;centroeste;juncao retossigmoide;metastaticos;IV;>=60;0;0;3
+2017;centroeste;reto;nao metastaticos;I;<60;0;0;1
+2017;centroeste;reto;nao metastaticos;I;>=60;1;2;4
+2017;centroeste;reto;nao metastaticos;II;<60;1;1;13
+2017;centroeste;reto;nao metastaticos;II;>=60;1;1;10
+2017;centroeste;reto;nao metastaticos;III;<60;2;3;20
+2017;centroeste;reto;nao metastaticos;III;>=60;3;3;16
+2017;centroeste;reto;metastaticos;IV;<60;0;3;12
+2017;centroeste;reto;metastaticos;IV;>=60;2;3;11
+2017;nordeste;colon;nao metastaticos;I;<60;0;0;20
+2017;nordeste;colon;nao metastaticos;I;>=60;2;2;27
+2017;nordeste;colon;nao metastaticos;II;<60;2;5;84
+2017;nordeste;colon;nao metastaticos;II;>=60;6;9;107
+2017;nordeste;colon;nao metastaticos;III;<60;10;12;117
+2017;nordeste;colon;nao metastaticos;III;>=60;13;22;129
+2017;nordeste;colon;metastaticos;IV;<60;28;40;116
+2017;nordeste;colon;metastaticos;IV;>=60;44;53;153
+2017;nordeste;juncao retossigmoide;nao metastaticos;I;<60;0;0;7
+2017;nordeste;juncao retossigmoide;nao metastaticos;I;>=60;0;0;12
+2017;nordeste;juncao retossigmoide;nao metastaticos;II;<60;0;0;15
+2017;nordeste;juncao retossigmoide;nao metastaticos;II;>=60;2;2;27
+2017;nordeste;juncao retossigmoide;nao metastaticos;III;<60;1;2;19
+2017;nordeste;juncao retossigmoide;nao metastaticos;III;>=60;3;4;27
+2017;nordeste;juncao retossigmoide;metastaticos;IV;<60;3;6;18
+2017;nordeste;juncao retossigmoide;metastaticos;IV;>=60;4;7;15
+2017;nordeste;reto;nao metastaticos;I;<60;0;2;18
+2017;nordeste;reto;nao metastaticos;I;>=60;0;0;26
+2017;nordeste;reto;nao metastaticos;II;<60;5;11;54
+2017;nordeste;reto;nao metastaticos;II;>=60;7;11;89
+2017;nordeste;reto;nao metastaticos;III;<60;8;13;102
+2017;nordeste;reto;nao metastaticos;III;>=60;10;14;114
+2017;nordeste;reto;metastaticos;IV;<60;14;19;64
+2017;nordeste;reto;metastaticos;IV;>=60;18;21;70
+2017;norte;colon;nao metastaticos;I;<60;0;0;2
+2017;norte;colon;nao metastaticos;I;>=60;0;0;1
+2017;norte;colon;nao metastaticos;II;<60;1;2;29
+2017;norte;colon;nao metastaticos;II;>=60;4;6;18
+2017;norte;colon;nao metastaticos;III;<60;3;6;28
+2017;norte;colon;nao metastaticos;III;>=60;6;8;34
+2017;norte;colon;metastaticos;IV;<60;4;5;18
+2017;norte;colon;metastaticos;IV;>=60;9;11;30
+2017;norte;juncao retossigmoide;nao metastaticos;I;>=60;0;0;1
+2017;norte;juncao retossigmoide;nao metastaticos;II;<60;0;0;2
+2017;norte;juncao retossigmoide;nao metastaticos;II;>=60;0;1;5
+2017;norte;juncao retossigmoide;nao metastaticos;III;<60;1;2;10
+2017;norte;juncao retossigmoide;nao metastaticos;III;>=60;0;1;7
+2017;norte;juncao retossigmoide;metastaticos;IV;<60;2;2;6
+2017;norte;juncao retossigmoide;metastaticos;IV;>=60;1;1;3
+2017;norte;reto;nao metastaticos;I;<60;0;0;3
+2017;norte;reto;nao metastaticos;I;>=60;0;0;3
+2017;norte;reto;nao metastaticos;II;<60;0;0;13
+2017;norte;reto;nao metastaticos;II;>=60;3;5;16
+2017;norte;reto;nao metastaticos;III;<60;3;4;18
+2017;norte;reto;nao metastaticos;III;>=60;1;2;23
+2017;norte;reto;metastaticos;IV;<60;2;3;19
+2017;norte;reto;metastaticos;IV;>=60;0;1;7
+2017;sudeste;colon;nao metastaticos;I;<60;4;4;119
+2017;sudeste;colon;nao metastaticos;I;>=60;9;14;185
+2017;sudeste;colon;nao metastaticos;II;<60;18;23;296
+2017;sudeste;colon;nao metastaticos;II;>=60;53;74;487
+2017;sudeste;colon;nao metastaticos;III;<60;26;55;365
+2017;sudeste;colon;nao metastaticos;III;>=60;74;119;537
+2017;sudeste;colon;metastaticos;IV;<60;117;198;366
+2017;sudeste;colon;metastaticos;IV;>=60;176;283;483
+2017;sudeste;juncao retossigmoide;nao metastaticos;I;<60;0;1;19
+2017;sudeste;juncao retossigmoide;nao metastaticos;I;>=60;1;1;29
+2017;sudeste;juncao retossigmoide;nao metastaticos;II;<60;0;1;48
+2017;sudeste;juncao retossigmoide;nao metastaticos;II;>=60;5;10;82
+2017;sudeste;juncao retossigmoide;nao metastaticos;III;<60;3;7;74
+2017;sudeste;juncao retossigmoide;nao metastaticos;III;>=60;7;13;72
+2017;sudeste;juncao retossigmoide;metastaticos;IV;<60;19;31;63
+2017;sudeste;juncao retossigmoide;metastaticos;IV;>=60;20;35;52
+2017;sudeste;reto;nao metastaticos;I;<60;3;5;82
+2017;sudeste;reto;nao metastaticos;I;>=60;7;26;134
+2017;sudeste;reto;nao metastaticos;II;<60;11;26;182
+2017;sudeste;reto;nao metastaticos;II;>=60;37;68;358
+2017;sudeste;reto;nao metastaticos;III;<60;16;32;291
+2017;sudeste;reto;nao metastaticos;III;>=60;40;79;378
+2017;sudeste;reto;metastaticos;IV;<60;69;126;232
+2017;sudeste;reto;metastaticos;IV;>=60;106;164;257
+2017;sul;colon;nao metastaticos;I;<60;0;0;27
+2017;sul;colon;nao metastaticos;I;>=60;3;4;60
+2017;sul;colon;nao metastaticos;II;<60;6;6;137
+2017;sul;colon;nao metastaticos;II;>=60;19;24;223
+2017;sul;colon;nao metastaticos;III;<60;9;16;194
+2017;sul;colon;nao metastaticos;III;>=60;27;36;286
+2017;sul;colon;metastaticos;IV;<60;40;60;200
+2017;sul;colon;metastaticos;IV;>=60;58;73;260
+2017;sul;juncao retossigmoide;nao metastaticos;I;<60;0;0;5
+2017;sul;juncao retossigmoide;nao metastaticos;I;>=60;1;1;15
+2017;sul;juncao retossigmoide;nao metastaticos;II;<60;1;2;12
+2017;sul;juncao retossigmoide;nao metastaticos;II;>=60;1;1;31
+2017;sul;juncao retossigmoide;nao metastaticos;III;<60;0;1;27
+2017;sul;juncao retossigmoide;nao metastaticos;III;>=60;3;7;38
+2017;sul;juncao retossigmoide;metastaticos;IV;<60;0;2;24
+2017;sul;juncao retossigmoide;metastaticos;IV;>=60;8;8;26
+2017;sul;reto;nao metastaticos;I;<60;0;0;19
+2017;sul;reto;nao metastaticos;I;>=60;1;1;35
+2017;sul;reto;nao metastaticos;II;<60;3;8;98
+2017;sul;reto;nao metastaticos;II;>=60;4;7;144
+2017;sul;reto;nao metastaticos;III;<60;10;21;150
+2017;sul;reto;nao metastaticos;III;>=60;20;27;201
+2017;sul;reto;metastaticos;IV;<60;14;27;94
+2017;sul;reto;metastaticos;IV;>=60;36;47;127
+2018;centroeste;colon;nao metastaticos;II;<60;0;0;17
+2018;centroeste;colon;nao metastaticos;II;>=60;0;0;15
+2018;centroeste;colon;nao metastaticos;III;<60;0;2;9
+2018;centroeste;colon;nao metastaticos;III;>=60;0;0;9
+2018;centroeste;colon;metastaticos;IV;<60;6;9;23
+2018;centroeste;colon;metastaticos;IV;>=60;2;7;16
+2018;centroeste;juncao retossigmoide;nao metastaticos;I;<60;0;0;1
+2018;centroeste;juncao retossigmoide;nao metastaticos;II;>=60;0;0;1
+2018;centroeste;juncao retossigmoide;nao metastaticos;III;<60;0;0;1
+2018;centroeste;juncao retossigmoide;metastaticos;IV;<60;0;0;1
+2018;centroeste;juncao retossigmoide;metastaticos;IV;>=60;2;3;3
+2018;centroeste;reto;nao metastaticos;I;>=60;0;0;1
+2018;centroeste;reto;nao metastaticos;II;<60;0;0;7
+2018;centroeste;reto;nao metastaticos;II;>=60;1;2;10
+2018;centroeste;reto;nao metastaticos;III;<60;1;1;8
+2018;centroeste;reto;nao metastaticos;III;>=60;1;1;10
+2018;centroeste;reto;metastaticos;IV;<60;0;3;9
+2018;centroeste;reto;metastaticos;IV;>=60;5;6;12
+2018;nordeste;colon;nao metastaticos;I;<60;0;1;13
+2018;nordeste;colon;nao metastaticos;I;>=60;1;1;12
+2018;nordeste;colon;nao metastaticos;II;<60;0;1;41
+2018;nordeste;colon;nao metastaticos;II;>=60;7;9;66
+2018;nordeste;colon;nao metastaticos;III;<60;5;8;72
+2018;nordeste;colon;nao metastaticos;III;>=60;4;8;61
+2018;nordeste;colon;metastaticos;IV;<60;16;27;76
+2018;nordeste;colon;metastaticos;IV;>=60;8;14;66
+2018;nordeste;juncao retossigmoide;nao metastaticos;I;<60;0;0;2
+2018;nordeste;juncao retossigmoide;nao metastaticos;I;>=60;0;0;5
+2018;nordeste;juncao retossigmoide;nao metastaticos;II;<60;0;0;9
+2018;nordeste;juncao retossigmoide;nao metastaticos;II;>=60;0;0;12
+2018;nordeste;juncao retossigmoide;nao metastaticos;III;<60;0;0;7
+2018;nordeste;juncao retossigmoide;nao metastaticos;III;>=60;2;2;13
+2018;nordeste;juncao retossigmoide;metastaticos;IV;<60;1;1;10
+2018;nordeste;juncao retossigmoide;metastaticos;IV;>=60;4;4;8
+2018;nordeste;reto;nao metastaticos;I;<60;1;1;6
+2018;nordeste;reto;nao metastaticos;I;>=60;0;1;15
+2018;nordeste;reto;nao metastaticos;II;<60;3;3;52
+2018;nordeste;reto;nao metastaticos;II;>=60;7;9;71
+2018;nordeste;reto;nao metastaticos;III;<60;6;7;60
+2018;nordeste;reto;nao metastaticos;III;>=60;8;14;79
+2018;nordeste;reto;metastaticos;IV;<60;10;12;43
+2018;nordeste;reto;metastaticos;IV;>=60;5;9;36
+2018;norte;colon;nao metastaticos;I;<60;0;0;4
+2018;norte;colon;nao metastaticos;I;>=60;1;1;5
+2018;norte;colon;nao metastaticos;II;<60;1;1;24
+2018;norte;colon;nao metastaticos;II;>=60;2;4;23
+2018;norte;colon;nao metastaticos;III;<60;1;2;31
+2018;norte;colon;nao metastaticos;III;>=60;5;6;33
+2018;norte;colon;metastaticos;IV;<60;6;7;25
+2018;norte;colon;metastaticos;IV;>=60;10;14;29
+2018;norte;juncao retossigmoide;nao metastaticos;I;<60;0;0;1
+2018;norte;juncao retossigmoide;nao metastaticos;I;>=60;0;0;1
+2018;norte;juncao retossigmoide;nao metastaticos;II;<60;0;0;3
+2018;norte;juncao retossigmoide;nao metastaticos;II;>=60;1;1;7
+2018;norte;juncao retossigmoide;nao metastaticos;III;<60;0;0;7
+2018;norte;juncao retossigmoide;nao metastaticos;III;>=60;1;1;5
+2018;norte;juncao retossigmoide;metastaticos;IV;<60;0;0;5
+2018;norte;juncao retossigmoide;metastaticos;IV;>=60;0;0;7
+2018;norte;reto;nao metastaticos;I;>=60;0;0;1
+2018;norte;reto;nao metastaticos;II;<60;1;1;11
+2018;norte;reto;nao metastaticos;II;>=60;2;3;23
+2018;norte;reto;nao metastaticos;III;<60;1;2;23
+2018;norte;reto;nao metastaticos;III;>=60;4;5;27
+2018;norte;reto;metastaticos;IV;<60;2;6;11
+2018;norte;reto;metastaticos;IV;>=60;0;2;9
+2018;sudeste;colon;nao metastaticos;I;<60;4;5;95
+2018;sudeste;colon;nao metastaticos;I;>=60;12;14;156
+2018;sudeste;colon;nao metastaticos;II;<60;9;13;276
+2018;sudeste;colon;nao metastaticos;II;>=60;50;60;469
+2018;sudeste;colon;nao metastaticos;III;<60;12;24;304
+2018;sudeste;colon;nao metastaticos;III;>=60;51;69;499
+2018;sudeste;colon;metastaticos;IV;<60;79;116;295
+2018;sudeste;colon;metastaticos;IV;>=60;194;241;478
+2018;sudeste;juncao retossigmoide;nao metastaticos;I;<60;1;1;20
+2018;sudeste;juncao retossigmoide;nao metastaticos;I;>=60;4;4;33
+2018;sudeste;juncao retossigmoide;nao metastaticos;II;<60;1;1;40
+2018;sudeste;juncao retossigmoide;nao metastaticos;II;>=60;8;8;74
+2018;sudeste;juncao retossigmoide;nao metastaticos;III;<60;2;3;70
+2018;sudeste;juncao retossigmoide;nao metastaticos;III;>=60;9;12;70
+2018;sudeste;juncao retossigmoide;metastaticos;IV;<60;8;12;49
+2018;sudeste;juncao retossigmoide;metastaticos;IV;>=60;18;24;52
+2018;sudeste;reto;nao metastaticos;I;<60;2;3;60
+2018;sudeste;reto;nao metastaticos;I;>=60;8;10;126
+2018;sudeste;reto;nao metastaticos;II;<60;5;10;193
+2018;sudeste;reto;nao metastaticos;II;>=60;33;51;292
+2018;sudeste;reto;nao metastaticos;III;<60;24;31;285
+2018;sudeste;reto;nao metastaticos;III;>=60;71;94;386
+2018;sudeste;reto;metastaticos;IV;<60;50;77;199
+2018;sudeste;reto;metastaticos;IV;>=60;91;111;242
+2018;sul;colon;nao metastaticos;I;<60;0;0;27
+2018;sul;colon;nao metastaticos;I;>=60;12;12;60
+2018;sul;colon;nao metastaticos;II;<60;3;4;120
+2018;sul;colon;nao metastaticos;II;>=60;11;12;158
+2018;sul;colon;nao metastaticos;III;<60;6;10;151
+2018;sul;colon;nao metastaticos;III;>=60;9;14;218
+2018;sul;colon;metastaticos;IV;<60;33;48;173
+2018;sul;colon;metastaticos;IV;>=60;44;54;191
+2018;sul;juncao retossigmoide;nao metastaticos;I;<60;0;0;4
+2018;sul;juncao retossigmoide;nao metastaticos;I;>=60;0;0;12
+2018;sul;juncao retossigmoide;nao metastaticos;II;<60;0;0;23
+2018;sul;juncao retossigmoide;nao metastaticos;II;>=60;2;2;20
+2018;sul;juncao retossigmoide;nao metastaticos;III;<60;0;1;27
+2018;sul;juncao retossigmoide;nao metastaticos;III;>=60;2;3;31
+2018;sul;juncao retossigmoide;metastaticos;IV;<60;4;7;16
+2018;sul;juncao retossigmoide;metastaticos;IV;>=60;3;3;16
+2018;sul;reto;nao metastaticos;I;<60;1;1;22
+2018;sul;reto;nao metastaticos;I;>=60;1;1;35
+2018;sul;reto;nao metastaticos;II;<60;2;4;73
+2018;sul;reto;nao metastaticos;II;>=60;5;9;101
+2018;sul;reto;nao metastaticos;III;<60;7;9;132
+2018;sul;reto;nao metastaticos;III;>=60;14;17;164
+2018;sul;reto;metastaticos;IV;<60;15;17;79
+2018;sul;reto;metastaticos;IV;>=60;24;30;118
